@@ -1,0 +1,2188 @@
+aircraft_id,question,answer
+F22,What is the Name of F22?,F22 Name
+F22,What is the FullDesignation of F22?,F22 Full Designation
+F22,What is the Manufacturer of F22?,Dassault
+F22,What is the FirstIntroduced of F22?,2005
+F22,What is the CountryOfOrigin of F22?,China
+F22,What is the MaxSpeed of F22?,1814 km/h
+F22,What is the Range of F22?,9777 km
+F22,What is the ServiceCeiling of F22?,12546 m
+F22,What is the EngineType of F22?,Turboprop
+F22,What is the Weight of F22?,"69113 kg (empty), 110077 kg (max)"
+F22,What is the Dimensions of F22?,"27 m length, 49 m wingspan"
+F22,What is the Role of F22?,Surveillance
+F22,What is the SurveillanceCapable of F22?,No
+F22,What is the NuclearCapable of F22?,Yes
+F22,What is the WeaponsPayload of F22?,Missiles
+F22,What is the TransportCapacity of F22?,63 personnel or 7505 kg cargo
+F22,What is the Operators of F22?,Global
+F22,What is the CombatHistory of F22?,Yes
+F22,What is the NotableMissions of F22?,F22 participated in major operations.
+F22,What is the ActiveService of F22?,Yes
+F22,What is the Comparison of F22?,F22 is often compared with F35.
+F22,What is the BetterThan of F22?,F22 is better than older gen aircraft.
+F22,What is the StealthCapable of F22?,No
+F22,What is the DifferenceFrom of F22?,F22 differs from Su34 in design and avionics.
+F22,What is the MannedOrUnmanned of F22?,Unmanned
+F22,What is the InterestingFacts of F22?,F22 has unique stealth tech.
+F22,What is the UniqueFeatures of F22?,F22 supports vertical takeoff or special radar systems.
+Mi24,What is the Name of Mi24?,Mi24 Name
+Mi24,What is the FullDesignation of Mi24?,Mi24 Full Designation
+Mi24,What is the Manufacturer of Mi24?,Sukhoi
+Mi24,What is the FirstIntroduced of Mi24?,2010
+Mi24,What is the CountryOfOrigin of Mi24?,France
+Mi24,What is the MaxSpeed of Mi24?,1750 km/h
+Mi24,What is the Range of Mi24?,14204 km
+Mi24,What is the ServiceCeiling of Mi24?,13932 m
+Mi24,What is the EngineType of Mi24?,Turboprop
+Mi24,What is the Weight of Mi24?,"33309 kg (empty), 91098 kg (max)"
+Mi24,What is the Dimensions of Mi24?,"39 m length, 49 m wingspan"
+Mi24,What is the Role of Mi24?,Surveillance
+Mi24,What is the SurveillanceCapable of Mi24?,No
+Mi24,What is the NuclearCapable of Mi24?,Yes
+Mi24,What is the WeaponsPayload of Mi24?,Machine Guns
+Mi24,What is the TransportCapacity of Mi24?,88 personnel or 46925 kg cargo
+Mi24,What is the Operators of Mi24?,"France, Germany"
+Mi24,What is the CombatHistory of Mi24?,Yes
+Mi24,What is the NotableMissions of Mi24?,Mi24 participated in major operations.
+Mi24,What is the ActiveService of Mi24?,Yes
+Mi24,What is the Comparison of Mi24?,Mi24 is often compared with F35.
+Mi24,What is the BetterThan of Mi24?,Mi24 is better than older gen aircraft.
+Mi24,What is the StealthCapable of Mi24?,No
+Mi24,What is the DifferenceFrom of Mi24?,Mi24 differs from Su34 in design and avionics.
+Mi24,What is the MannedOrUnmanned of Mi24?,Manned
+Mi24,What is the InterestingFacts of Mi24?,Mi24 has unique stealth tech.
+Mi24,What is the UniqueFeatures of Mi24?,Mi24 supports vertical takeoff or special radar systems.
+An124,What is the Name of An124?,An124 Name
+An124,What is the FullDesignation of An124?,An124 Full Designation
+An124,What is the Manufacturer of An124?,Boeing
+An124,What is the FirstIntroduced of An124?,2020
+An124,What is the CountryOfOrigin of An124?,UK
+An124,What is the MaxSpeed of An124?,1957 km/h
+An124,What is the Range of An124?,2197 km
+An124,What is the ServiceCeiling of An124?,10523 m
+An124,What is the EngineType of An124?,Rotary
+An124,What is the Weight of An124?,"55628 kg (empty), 68241 kg (max)"
+An124,What is the Dimensions of An124?,"36 m length, 55 m wingspan"
+An124,What is the Role of An124?,Fighter
+An124,What is the SurveillanceCapable of An124?,Yes
+An124,What is the NuclearCapable of An124?,No
+An124,What is the WeaponsPayload of An124?,Machine Guns
+An124,What is the TransportCapacity of An124?,39 personnel or 39238 kg cargo
+An124,What is the Operators of An124?,"USA, UK"
+An124,What is the CombatHistory of An124?,Yes
+An124,What is the NotableMissions of An124?,An124 participated in major operations.
+An124,What is the ActiveService of An124?,No
+An124,What is the Comparison of An124?,An124 is often compared with F35.
+An124,What is the BetterThan of An124?,An124 is better than older gen aircraft.
+An124,What is the StealthCapable of An124?,No
+An124,What is the DifferenceFrom of An124?,An124 differs from Su34 in design and avionics.
+An124,What is the MannedOrUnmanned of An124?,Manned
+An124,What is the InterestingFacts of An124?,An124 has unique stealth tech.
+An124,What is the UniqueFeatures of An124?,An124 supports vertical takeoff or special radar systems.
+TB2,What is the Name of TB2?,TB2 Name
+TB2,What is the FullDesignation of TB2?,TB2 Full Designation
+TB2,What is the Manufacturer of TB2?,Sukhoi
+TB2,What is the FirstIntroduced of TB2?,1995
+TB2,What is the CountryOfOrigin of TB2?,China
+TB2,What is the MaxSpeed of TB2?,1088 km/h
+TB2,What is the Range of TB2?,8425 km
+TB2,What is the ServiceCeiling of TB2?,13678 m
+TB2,What is the EngineType of TB2?,Turbojet
+TB2,What is the Weight of TB2?,"45460 kg (empty), 140507 kg (max)"
+TB2,What is the Dimensions of TB2?,"29 m length, 51 m wingspan"
+TB2,What is the Role of TB2?,Reconnaissance
+TB2,What is the SurveillanceCapable of TB2?,No
+TB2,What is the NuclearCapable of TB2?,No
+TB2,What is the WeaponsPayload of TB2?,Bombs
+TB2,What is the TransportCapacity of TB2?,23 personnel or 44627 kg cargo
+TB2,What is the Operators of TB2?,"France, Germany"
+TB2,What is the CombatHistory of TB2?,No
+TB2,What is the NotableMissions of TB2?,TB2 participated in major operations.
+TB2,What is the ActiveService of TB2?,Yes
+TB2,What is the Comparison of TB2?,TB2 is often compared with F35.
+TB2,What is the BetterThan of TB2?,TB2 is better than older gen aircraft.
+TB2,What is the StealthCapable of TB2?,No
+TB2,What is the DifferenceFrom of TB2?,TB2 differs from Su34 in design and avionics.
+TB2,What is the MannedOrUnmanned of TB2?,Manned
+TB2,What is the InterestingFacts of TB2?,TB2 has unique stealth tech.
+TB2,What is the UniqueFeatures of TB2?,TB2 supports vertical takeoff or special radar systems.
+Tu160,What is the Name of Tu160?,Tu160 Name
+Tu160,What is the FullDesignation of Tu160?,Tu160 Full Designation
+Tu160,What is the Manufacturer of Tu160?,Dassault
+Tu160,What is the FirstIntroduced of Tu160?,1995
+Tu160,What is the CountryOfOrigin of Tu160?,USA
+Tu160,What is the MaxSpeed of Tu160?,2144 km/h
+Tu160,What is the Range of Tu160?,7668 km
+Tu160,What is the ServiceCeiling of Tu160?,22112 m
+Tu160,What is the EngineType of Tu160?,Rotary
+Tu160,What is the Weight of Tu160?,"25754 kg (empty), 39469 kg (max)"
+Tu160,What is the Dimensions of Tu160?,"11 m length, 53 m wingspan"
+Tu160,What is the Role of Tu160?,Fighter
+Tu160,What is the SurveillanceCapable of Tu160?,No
+Tu160,What is the NuclearCapable of Tu160?,Yes
+Tu160,What is the WeaponsPayload of Tu160?,Bombs
+Tu160,What is the TransportCapacity of Tu160?,31 personnel or 4265 kg cargo
+Tu160,What is the Operators of Tu160?,"USA, UK"
+Tu160,What is the CombatHistory of Tu160?,Yes
+Tu160,What is the NotableMissions of Tu160?,Tu160 participated in major operations.
+Tu160,What is the ActiveService of Tu160?,No
+Tu160,What is the Comparison of Tu160?,Tu160 is often compared with F35.
+Tu160,What is the BetterThan of Tu160?,Tu160 is better than older gen aircraft.
+Tu160,What is the StealthCapable of Tu160?,Yes
+Tu160,What is the DifferenceFrom of Tu160?,Tu160 differs from Su34 in design and avionics.
+Tu160,What is the MannedOrUnmanned of Tu160?,Manned
+Tu160,What is the InterestingFacts of Tu160?,Tu160 has unique stealth tech.
+Tu160,What is the UniqueFeatures of Tu160?,Tu160 supports vertical takeoff or special radar systems.
+Mi26,What is the Name of Mi26?,Mi26 Name
+Mi26,What is the FullDesignation of Mi26?,Mi26 Full Designation
+Mi26,What is the Manufacturer of Mi26?,Airbus
+Mi26,What is the FirstIntroduced of Mi26?,2005
+Mi26,What is the CountryOfOrigin of Mi26?,France
+Mi26,What is the MaxSpeed of Mi26?,2010 km/h
+Mi26,What is the Range of Mi26?,12023 km
+Mi26,What is the ServiceCeiling of Mi26?,18319 m
+Mi26,What is the EngineType of Mi26?,Turboprop
+Mi26,What is the Weight of Mi26?,"40310 kg (empty), 48022 kg (max)"
+Mi26,What is the Dimensions of Mi26?,"29 m length, 28 m wingspan"
+Mi26,What is the Role of Mi26?,Reconnaissance
+Mi26,What is the SurveillanceCapable of Mi26?,Yes
+Mi26,What is the NuclearCapable of Mi26?,Yes
+Mi26,What is the WeaponsPayload of Mi26?,Torpedoes
+Mi26,What is the TransportCapacity of Mi26?,9 personnel or 40896 kg cargo
+Mi26,What is the Operators of Mi26?,"France, Germany"
+Mi26,What is the CombatHistory of Mi26?,Yes
+Mi26,What is the NotableMissions of Mi26?,Mi26 participated in major operations.
+Mi26,What is the ActiveService of Mi26?,No
+Mi26,What is the Comparison of Mi26?,Mi26 is often compared with F35.
+Mi26,What is the BetterThan of Mi26?,Mi26 is better than older gen aircraft.
+Mi26,What is the StealthCapable of Mi26?,Yes
+Mi26,What is the DifferenceFrom of Mi26?,Mi26 differs from Su34 in design and avionics.
+Mi26,What is the MannedOrUnmanned of Mi26?,Unmanned
+Mi26,What is the InterestingFacts of Mi26?,Mi26 has unique stealth tech.
+Mi26,What is the UniqueFeatures of Mi26?,Mi26 supports vertical takeoff or special radar systems.
+RQ4,What is the Name of RQ4?,RQ4 Name
+RQ4,What is the FullDesignation of RQ4?,RQ4 Full Designation
+RQ4,What is the Manufacturer of RQ4?,Airbus
+RQ4,What is the FirstIntroduced of RQ4?,2020
+RQ4,What is the CountryOfOrigin of RQ4?,USA
+RQ4,What is the MaxSpeed of RQ4?,2509 km/h
+RQ4,What is the Range of RQ4?,3276 km
+RQ4,What is the ServiceCeiling of RQ4?,22853 m
+RQ4,What is the EngineType of RQ4?,Turbojet
+RQ4,What is the Weight of RQ4?,"38109 kg (empty), 69320 kg (max)"
+RQ4,What is the Dimensions of RQ4?,"38 m length, 59 m wingspan"
+RQ4,What is the Role of RQ4?,Reconnaissance
+RQ4,What is the SurveillanceCapable of RQ4?,No
+RQ4,What is the NuclearCapable of RQ4?,No
+RQ4,What is the WeaponsPayload of RQ4?,Bombs
+RQ4,What is the TransportCapacity of RQ4?,79 personnel or 18917 kg cargo
+RQ4,What is the Operators of RQ4?,"Russia, China"
+RQ4,What is the CombatHistory of RQ4?,No
+RQ4,What is the NotableMissions of RQ4?,RQ4 participated in major operations.
+RQ4,What is the ActiveService of RQ4?,Yes
+RQ4,What is the Comparison of RQ4?,RQ4 is often compared with F35.
+RQ4,What is the BetterThan of RQ4?,RQ4 is better than older gen aircraft.
+RQ4,What is the StealthCapable of RQ4?,Yes
+RQ4,What is the DifferenceFrom of RQ4?,RQ4 differs from Su34 in design and avionics.
+RQ4,What is the MannedOrUnmanned of RQ4?,Unmanned
+RQ4,What is the InterestingFacts of RQ4?,RQ4 has unique stealth tech.
+RQ4,What is the UniqueFeatures of RQ4?,RQ4 supports vertical takeoff or special radar systems.
+Su25,What is the Name of Su25?,Su25 Name
+Su25,What is the FullDesignation of Su25?,Su25 Full Designation
+Su25,What is the Manufacturer of Su25?,Airbus
+Su25,What is the FirstIntroduced of Su25?,1980
+Su25,What is the CountryOfOrigin of Su25?,UK
+Su25,What is the MaxSpeed of Su25?,1613 km/h
+Su25,What is the Range of Su25?,12970 km
+Su25,What is the ServiceCeiling of Su25?,24032 m
+Su25,What is the EngineType of Su25?,Turboprop
+Su25,What is the Weight of Su25?,"62292 kg (empty), 96322 kg (max)"
+Su25,What is the Dimensions of Su25?,"15 m length, 47 m wingspan"
+Su25,What is the Role of Su25?,Surveillance
+Su25,What is the SurveillanceCapable of Su25?,Yes
+Su25,What is the NuclearCapable of Su25?,No
+Su25,What is the WeaponsPayload of Su25?,Torpedoes
+Su25,What is the TransportCapacity of Su25?,75 personnel or 8598 kg cargo
+Su25,What is the Operators of Su25?,"France, Germany"
+Su25,What is the CombatHistory of Su25?,Yes
+Su25,What is the NotableMissions of Su25?,Su25 participated in major operations.
+Su25,What is the ActiveService of Su25?,No
+Su25,What is the Comparison of Su25?,Su25 is often compared with F35.
+Su25,What is the BetterThan of Su25?,Su25 is better than older gen aircraft.
+Su25,What is the StealthCapable of Su25?,Yes
+Su25,What is the DifferenceFrom of Su25?,Su25 differs from Su34 in design and avionics.
+Su25,What is the MannedOrUnmanned of Su25?,Unmanned
+Su25,What is the InterestingFacts of Su25?,Su25 has unique stealth tech.
+Su25,What is the UniqueFeatures of Su25?,Su25 supports vertical takeoff or special radar systems.
+Mi8,What is the Name of Mi8?,Mi8 Name
+Mi8,What is the FullDesignation of Mi8?,Mi8 Full Designation
+Mi8,What is the Manufacturer of Mi8?,Dassault
+Mi8,What is the FirstIntroduced of Mi8?,1995
+Mi8,What is the CountryOfOrigin of Mi8?,Russia
+Mi8,What is the MaxSpeed of Mi8?,954 km/h
+Mi8,What is the Range of Mi8?,2804 km
+Mi8,What is the ServiceCeiling of Mi8?,20063 m
+Mi8,What is the EngineType of Mi8?,Turboprop
+Mi8,What is the Weight of Mi8?,"32485 kg (empty), 106036 kg (max)"
+Mi8,What is the Dimensions of Mi8?,"13 m length, 41 m wingspan"
+Mi8,What is the Role of Mi8?,Bomber
+Mi8,What is the SurveillanceCapable of Mi8?,No
+Mi8,What is the NuclearCapable of Mi8?,No
+Mi8,What is the WeaponsPayload of Mi8?,Torpedoes
+Mi8,What is the TransportCapacity of Mi8?,95 personnel or 15323 kg cargo
+Mi8,What is the Operators of Mi8?,"USA, UK"
+Mi8,What is the CombatHistory of Mi8?,Yes
+Mi8,What is the NotableMissions of Mi8?,Mi8 participated in major operations.
+Mi8,What is the ActiveService of Mi8?,Yes
+Mi8,What is the Comparison of Mi8?,Mi8 is often compared with F35.
+Mi8,What is the BetterThan of Mi8?,Mi8 is better than older gen aircraft.
+Mi8,What is the StealthCapable of Mi8?,No
+Mi8,What is the DifferenceFrom of Mi8?,Mi8 differs from Su34 in design and avionics.
+Mi8,What is the MannedOrUnmanned of Mi8?,Manned
+Mi8,What is the InterestingFacts of Mi8?,Mi8 has unique stealth tech.
+Mi8,What is the UniqueFeatures of Mi8?,Mi8 supports vertical takeoff or special radar systems.
+Be200,What is the Name of Be200?,Be200 Name
+Be200,What is the FullDesignation of Be200?,Be200 Full Designation
+Be200,What is the Manufacturer of Be200?,Lockheed Martin
+Be200,What is the FirstIntroduced of Be200?,1980
+Be200,What is the CountryOfOrigin of Be200?,Russia
+Be200,What is the MaxSpeed of Be200?,2031 km/h
+Be200,What is the Range of Be200?,7515 km
+Be200,What is the ServiceCeiling of Be200?,23699 m
+Be200,What is the EngineType of Be200?,Turbojet
+Be200,What is the Weight of Be200?,"65485 kg (empty), 31232 kg (max)"
+Be200,What is the Dimensions of Be200?,"28 m length, 56 m wingspan"
+Be200,What is the Role of Be200?,Transport
+Be200,What is the SurveillanceCapable of Be200?,No
+Be200,What is the NuclearCapable of Be200?,No
+Be200,What is the WeaponsPayload of Be200?,Torpedoes
+Be200,What is the TransportCapacity of Be200?,35 personnel or 16005 kg cargo
+Be200,What is the Operators of Be200?,Global
+Be200,What is the CombatHistory of Be200?,No
+Be200,What is the NotableMissions of Be200?,Be200 participated in major operations.
+Be200,What is the ActiveService of Be200?,No
+Be200,What is the Comparison of Be200?,Be200 is often compared with F35.
+Be200,What is the BetterThan of Be200?,Be200 is better than older gen aircraft.
+Be200,What is the StealthCapable of Be200?,No
+Be200,What is the DifferenceFrom of Be200?,Be200 differs from Su34 in design and avionics.
+Be200,What is the MannedOrUnmanned of Be200?,Unmanned
+Be200,What is the InterestingFacts of Be200?,Be200 has unique stealth tech.
+Be200,What is the UniqueFeatures of Be200?,Be200 supports vertical takeoff or special radar systems.
+Mirage2000,What is the Name of Mirage2000?,Mirage2000 Name
+Mirage2000,What is the FullDesignation of Mirage2000?,Mirage2000 Full Designation
+Mirage2000,What is the Manufacturer of Mirage2000?,Boeing
+Mirage2000,What is the FirstIntroduced of Mirage2000?,2020
+Mirage2000,What is the CountryOfOrigin of Mirage2000?,France
+Mirage2000,What is the MaxSpeed of Mirage2000?,2931 km/h
+Mirage2000,What is the Range of Mirage2000?,11283 km
+Mirage2000,What is the ServiceCeiling of Mirage2000?,22610 m
+Mirage2000,What is the EngineType of Mirage2000?,Rotary
+Mirage2000,What is the Weight of Mirage2000?,"52875 kg (empty), 120809 kg (max)"
+Mirage2000,What is the Dimensions of Mirage2000?,"36 m length, 54 m wingspan"
+Mirage2000,What is the Role of Mirage2000?,Surveillance
+Mirage2000,What is the SurveillanceCapable of Mirage2000?,No
+Mirage2000,What is the NuclearCapable of Mirage2000?,No
+Mirage2000,What is the WeaponsPayload of Mirage2000?,Bombs
+Mirage2000,What is the TransportCapacity of Mirage2000?,57 personnel or 4587 kg cargo
+Mirage2000,What is the Operators of Mirage2000?,"France, Germany"
+Mirage2000,What is the CombatHistory of Mirage2000?,No
+Mirage2000,What is the NotableMissions of Mirage2000?,Mirage2000 participated in major operations.
+Mirage2000,What is the ActiveService of Mirage2000?,No
+Mirage2000,What is the Comparison of Mirage2000?,Mirage2000 is often compared with F35.
+Mirage2000,What is the BetterThan of Mirage2000?,Mirage2000 is better than older gen aircraft.
+Mirage2000,What is the StealthCapable of Mirage2000?,Yes
+Mirage2000,What is the DifferenceFrom of Mirage2000?,Mirage2000 differs from Su34 in design and avionics.
+Mirage2000,What is the MannedOrUnmanned of Mirage2000?,Unmanned
+Mirage2000,What is the InterestingFacts of Mirage2000?,Mirage2000 has unique stealth tech.
+Mirage2000,What is the UniqueFeatures of Mirage2000?,Mirage2000 supports vertical takeoff or special radar systems.
+U2,What is the Name of U2?,U2 Name
+U2,What is the FullDesignation of U2?,U2 Full Designation
+U2,What is the Manufacturer of U2?,Sukhoi
+U2,What is the FirstIntroduced of U2?,1980
+U2,What is the CountryOfOrigin of U2?,France
+U2,What is the MaxSpeed of U2?,1319 km/h
+U2,What is the Range of U2?,7242 km
+U2,What is the ServiceCeiling of U2?,24551 m
+U2,What is the EngineType of U2?,Turboprop
+U2,What is the Weight of U2?,"61838 kg (empty), 61111 kg (max)"
+U2,What is the Dimensions of U2?,"24 m length, 45 m wingspan"
+U2,What is the Role of U2?,Transport
+U2,What is the SurveillanceCapable of U2?,No
+U2,What is the NuclearCapable of U2?,No
+U2,What is the WeaponsPayload of U2?,Bombs
+U2,What is the TransportCapacity of U2?,77 personnel or 25115 kg cargo
+U2,What is the Operators of U2?,"Russia, China"
+U2,What is the CombatHistory of U2?,Yes
+U2,What is the NotableMissions of U2?,U2 participated in major operations.
+U2,What is the ActiveService of U2?,No
+U2,What is the Comparison of U2?,U2 is often compared with F35.
+U2,What is the BetterThan of U2?,U2 is better than older gen aircraft.
+U2,What is the StealthCapable of U2?,No
+U2,What is the DifferenceFrom of U2?,U2 differs from Su34 in design and avionics.
+U2,What is the MannedOrUnmanned of U2?,Manned
+U2,What is the InterestingFacts of U2?,U2 has unique stealth tech.
+U2,What is the UniqueFeatures of U2?,U2 supports vertical takeoff or special radar systems.
+Mig31,What is the Name of Mig31?,Mig31 Name
+Mig31,What is the FullDesignation of Mig31?,Mig31 Full Designation
+Mig31,What is the Manufacturer of Mig31?,Dassault
+Mig31,What is the FirstIntroduced of Mig31?,2010
+Mig31,What is the CountryOfOrigin of Mig31?,USA
+Mig31,What is the MaxSpeed of Mig31?,1449 km/h
+Mig31,What is the Range of Mig31?,9887 km
+Mig31,What is the ServiceCeiling of Mig31?,22035 m
+Mig31,What is the EngineType of Mig31?,Rotary
+Mig31,What is the Weight of Mig31?,"50766 kg (empty), 132037 kg (max)"
+Mig31,What is the Dimensions of Mig31?,"17 m length, 17 m wingspan"
+Mig31,What is the Role of Mig31?,Bomber
+Mig31,What is the SurveillanceCapable of Mig31?,No
+Mig31,What is the NuclearCapable of Mig31?,Yes
+Mig31,What is the WeaponsPayload of Mig31?,Missiles
+Mig31,What is the TransportCapacity of Mig31?,61 personnel or 41806 kg cargo
+Mig31,What is the Operators of Mig31?,"France, Germany"
+Mig31,What is the CombatHistory of Mig31?,Yes
+Mig31,What is the NotableMissions of Mig31?,Mig31 participated in major operations.
+Mig31,What is the ActiveService of Mig31?,No
+Mig31,What is the Comparison of Mig31?,Mig31 is often compared with F35.
+Mig31,What is the BetterThan of Mig31?,Mig31 is better than older gen aircraft.
+Mig31,What is the StealthCapable of Mig31?,Yes
+Mig31,What is the DifferenceFrom of Mig31?,Mig31 differs from Su34 in design and avionics.
+Mig31,What is the MannedOrUnmanned of Mig31?,Manned
+Mig31,What is the InterestingFacts of Mig31?,Mig31 has unique stealth tech.
+Mig31,What is the UniqueFeatures of Mig31?,Mig31 supports vertical takeoff or special radar systems.
+WZ7,What is the Name of WZ7?,WZ7 Name
+WZ7,What is the FullDesignation of WZ7?,WZ7 Full Designation
+WZ7,What is the Manufacturer of WZ7?,Lockheed Martin
+WZ7,What is the FirstIntroduced of WZ7?,2010
+WZ7,What is the CountryOfOrigin of WZ7?,China
+WZ7,What is the MaxSpeed of WZ7?,2367 km/h
+WZ7,What is the Range of WZ7?,6984 km
+WZ7,What is the ServiceCeiling of WZ7?,15359 m
+WZ7,What is the EngineType of WZ7?,Rotary
+WZ7,What is the Weight of WZ7?,"21180 kg (empty), 59539 kg (max)"
+WZ7,What is the Dimensions of WZ7?,"40 m length, 53 m wingspan"
+WZ7,What is the Role of WZ7?,Fighter
+WZ7,What is the SurveillanceCapable of WZ7?,Yes
+WZ7,What is the NuclearCapable of WZ7?,No
+WZ7,What is the WeaponsPayload of WZ7?,Torpedoes
+WZ7,What is the TransportCapacity of WZ7?,68 personnel or 27396 kg cargo
+WZ7,What is the Operators of WZ7?,Global
+WZ7,What is the CombatHistory of WZ7?,No
+WZ7,What is the NotableMissions of WZ7?,WZ7 participated in major operations.
+WZ7,What is the ActiveService of WZ7?,No
+WZ7,What is the Comparison of WZ7?,WZ7 is often compared with F35.
+WZ7,What is the BetterThan of WZ7?,WZ7 is better than older gen aircraft.
+WZ7,What is the StealthCapable of WZ7?,Yes
+WZ7,What is the DifferenceFrom of WZ7?,WZ7 differs from Su34 in design and avionics.
+WZ7,What is the MannedOrUnmanned of WZ7?,Unmanned
+WZ7,What is the InterestingFacts of WZ7?,WZ7 has unique stealth tech.
+WZ7,What is the UniqueFeatures of WZ7?,WZ7 supports vertical takeoff or special radar systems.
+Vulcan,What is the Name of Vulcan?,Vulcan Name
+Vulcan,What is the FullDesignation of Vulcan?,Vulcan Full Designation
+Vulcan,What is the Manufacturer of Vulcan?,Lockheed Martin
+Vulcan,What is the FirstIntroduced of Vulcan?,2005
+Vulcan,What is the CountryOfOrigin of Vulcan?,USA
+Vulcan,What is the MaxSpeed of Vulcan?,1184 km/h
+Vulcan,What is the Range of Vulcan?,10642 km
+Vulcan,What is the ServiceCeiling of Vulcan?,16368 m
+Vulcan,What is the EngineType of Vulcan?,Turboprop
+Vulcan,What is the Weight of Vulcan?,"76746 kg (empty), 94040 kg (max)"
+Vulcan,What is the Dimensions of Vulcan?,"34 m length, 33 m wingspan"
+Vulcan,What is the Role of Vulcan?,Transport
+Vulcan,What is the SurveillanceCapable of Vulcan?,No
+Vulcan,What is the NuclearCapable of Vulcan?,Yes
+Vulcan,What is the WeaponsPayload of Vulcan?,Bombs
+Vulcan,What is the TransportCapacity of Vulcan?,57 personnel or 34308 kg cargo
+Vulcan,What is the Operators of Vulcan?,"Russia, China"
+Vulcan,What is the CombatHistory of Vulcan?,No
+Vulcan,What is the NotableMissions of Vulcan?,Vulcan participated in major operations.
+Vulcan,What is the ActiveService of Vulcan?,Yes
+Vulcan,What is the Comparison of Vulcan?,Vulcan is often compared with F35.
+Vulcan,What is the BetterThan of Vulcan?,Vulcan is better than older gen aircraft.
+Vulcan,What is the StealthCapable of Vulcan?,Yes
+Vulcan,What is the DifferenceFrom of Vulcan?,Vulcan differs from Su34 in design and avionics.
+Vulcan,What is the MannedOrUnmanned of Vulcan?,Manned
+Vulcan,What is the InterestingFacts of Vulcan?,Vulcan has unique stealth tech.
+Vulcan,What is the UniqueFeatures of Vulcan?,Vulcan supports vertical takeoff or special radar systems.
+CL415,What is the Name of CL415?,CL415 Name
+CL415,What is the FullDesignation of CL415?,CL415 Full Designation
+CL415,What is the Manufacturer of CL415?,Lockheed Martin
+CL415,What is the FirstIntroduced of CL415?,2010
+CL415,What is the CountryOfOrigin of CL415?,UK
+CL415,What is the MaxSpeed of CL415?,2950 km/h
+CL415,What is the Range of CL415?,13514 km
+CL415,What is the ServiceCeiling of CL415?,20933 m
+CL415,What is the EngineType of CL415?,Turbojet
+CL415,What is the Weight of CL415?,"46041 kg (empty), 38690 kg (max)"
+CL415,What is the Dimensions of CL415?,"28 m length, 26 m wingspan"
+CL415,What is the Role of CL415?,Surveillance
+CL415,What is the SurveillanceCapable of CL415?,Yes
+CL415,What is the NuclearCapable of CL415?,No
+CL415,What is the WeaponsPayload of CL415?,Missiles
+CL415,What is the TransportCapacity of CL415?,61 personnel or 39225 kg cargo
+CL415,What is the Operators of CL415?,"USA, UK"
+CL415,What is the CombatHistory of CL415?,Yes
+CL415,What is the NotableMissions of CL415?,CL415 participated in major operations.
+CL415,What is the ActiveService of CL415?,Yes
+CL415,What is the Comparison of CL415?,CL415 is often compared with F35.
+CL415,What is the BetterThan of CL415?,CL415 is better than older gen aircraft.
+CL415,What is the StealthCapable of CL415?,Yes
+CL415,What is the DifferenceFrom of CL415?,CL415 differs from Su34 in design and avionics.
+CL415,What is the MannedOrUnmanned of CL415?,Unmanned
+CL415,What is the InterestingFacts of CL415?,CL415 has unique stealth tech.
+CL415,What is the UniqueFeatures of CL415?,CL415 supports vertical takeoff or special radar systems.
+Z10,What is the Name of Z10?,Z10 Name
+Z10,What is the FullDesignation of Z10?,Z10 Full Designation
+Z10,What is the Manufacturer of Z10?,Airbus
+Z10,What is the FirstIntroduced of Z10?,2020
+Z10,What is the CountryOfOrigin of Z10?,China
+Z10,What is the MaxSpeed of Z10?,2557 km/h
+Z10,What is the Range of Z10?,4954 km
+Z10,What is the ServiceCeiling of Z10?,10508 m
+Z10,What is the EngineType of Z10?,Turbojet
+Z10,What is the Weight of Z10?,"42313 kg (empty), 57633 kg (max)"
+Z10,What is the Dimensions of Z10?,"25 m length, 53 m wingspan"
+Z10,What is the Role of Z10?,Reconnaissance
+Z10,What is the SurveillanceCapable of Z10?,No
+Z10,What is the NuclearCapable of Z10?,Yes
+Z10,What is the WeaponsPayload of Z10?,Missiles
+Z10,What is the TransportCapacity of Z10?,31 personnel or 37904 kg cargo
+Z10,What is the Operators of Z10?,"France, Germany"
+Z10,What is the CombatHistory of Z10?,Yes
+Z10,What is the NotableMissions of Z10?,Z10 participated in major operations.
+Z10,What is the ActiveService of Z10?,No
+Z10,What is the Comparison of Z10?,Z10 is often compared with F35.
+Z10,What is the BetterThan of Z10?,Z10 is better than older gen aircraft.
+Z10,What is the StealthCapable of Z10?,Yes
+Z10,What is the DifferenceFrom of Z10?,Z10 differs from Su34 in design and avionics.
+Z10,What is the MannedOrUnmanned of Z10?,Unmanned
+Z10,What is the InterestingFacts of Z10?,Z10 has unique stealth tech.
+Z10,What is the UniqueFeatures of Z10?,Z10 supports vertical takeoff or special radar systems.
+A400M,What is the Name of A400M?,A400M Name
+A400M,What is the FullDesignation of A400M?,A400M Full Designation
+A400M,What is the Manufacturer of A400M?,Lockheed Martin
+A400M,What is the FirstIntroduced of A400M?,2020
+A400M,What is the CountryOfOrigin of A400M?,France
+A400M,What is the MaxSpeed of A400M?,1299 km/h
+A400M,What is the Range of A400M?,2586 km
+A400M,What is the ServiceCeiling of A400M?,15382 m
+A400M,What is the EngineType of A400M?,Turboprop
+A400M,What is the Weight of A400M?,"51396 kg (empty), 117099 kg (max)"
+A400M,What is the Dimensions of A400M?,"27 m length, 50 m wingspan"
+A400M,What is the Role of A400M?,Reconnaissance
+A400M,What is the SurveillanceCapable of A400M?,Yes
+A400M,What is the NuclearCapable of A400M?,Yes
+A400M,What is the WeaponsPayload of A400M?,Bombs
+A400M,What is the TransportCapacity of A400M?,21 personnel or 42178 kg cargo
+A400M,What is the Operators of A400M?,"France, Germany"
+A400M,What is the CombatHistory of A400M?,No
+A400M,What is the NotableMissions of A400M?,A400M participated in major operations.
+A400M,What is the ActiveService of A400M?,Yes
+A400M,What is the Comparison of A400M?,A400M is often compared with F35.
+A400M,What is the BetterThan of A400M?,A400M is better than older gen aircraft.
+A400M,What is the StealthCapable of A400M?,No
+A400M,What is the DifferenceFrom of A400M?,A400M differs from Su34 in design and avionics.
+A400M,What is the MannedOrUnmanned of A400M?,Unmanned
+A400M,What is the InterestingFacts of A400M?,A400M has unique stealth tech.
+A400M,What is the UniqueFeatures of A400M?,A400M supports vertical takeoff or special radar systems.
+Su34,What is the Name of Su34?,Su34 Name
+Su34,What is the FullDesignation of Su34?,Su34 Full Designation
+Su34,What is the Manufacturer of Su34?,Sukhoi
+Su34,What is the FirstIntroduced of Su34?,2005
+Su34,What is the CountryOfOrigin of Su34?,China
+Su34,What is the MaxSpeed of Su34?,1877 km/h
+Su34,What is the Range of Su34?,10417 km
+Su34,What is the ServiceCeiling of Su34?,20280 m
+Su34,What is the EngineType of Su34?,Turbojet
+Su34,What is the Weight of Su34?,"54326 kg (empty), 51016 kg (max)"
+Su34,What is the Dimensions of Su34?,"18 m length, 46 m wingspan"
+Su34,What is the Role of Su34?,Fighter
+Su34,What is the SurveillanceCapable of Su34?,Yes
+Su34,What is the NuclearCapable of Su34?,No
+Su34,What is the WeaponsPayload of Su34?,Bombs
+Su34,What is the TransportCapacity of Su34?,90 personnel or 43358 kg cargo
+Su34,What is the Operators of Su34?,Global
+Su34,What is the CombatHistory of Su34?,No
+Su34,What is the NotableMissions of Su34?,Su34 participated in major operations.
+Su34,What is the ActiveService of Su34?,No
+Su34,What is the Comparison of Su34?,Su34 is often compared with F35.
+Su34,What is the BetterThan of Su34?,Su34 is better than older gen aircraft.
+Su34,What is the StealthCapable of Su34?,No
+Su34,What is the DifferenceFrom of Su34?,Su34 differs from Su34 in design and avionics.
+Su34,What is the MannedOrUnmanned of Su34?,Unmanned
+Su34,What is the InterestingFacts of Su34?,Su34 has unique stealth tech.
+Su34,What is the UniqueFeatures of Su34?,Su34 supports vertical takeoff or special radar systems.
+Y20,What is the Name of Y20?,Y20 Name
+Y20,What is the FullDesignation of Y20?,Y20 Full Designation
+Y20,What is the Manufacturer of Y20?,Lockheed Martin
+Y20,What is the FirstIntroduced of Y20?,1980
+Y20,What is the CountryOfOrigin of Y20?,China
+Y20,What is the MaxSpeed of Y20?,2853 km/h
+Y20,What is the Range of Y20?,3386 km
+Y20,What is the ServiceCeiling of Y20?,20992 m
+Y20,What is the EngineType of Y20?,Rotary
+Y20,What is the Weight of Y20?,"65971 kg (empty), 59858 kg (max)"
+Y20,What is the Dimensions of Y20?,"40 m length, 43 m wingspan"
+Y20,What is the Role of Y20?,Surveillance
+Y20,What is the SurveillanceCapable of Y20?,Yes
+Y20,What is the NuclearCapable of Y20?,Yes
+Y20,What is the WeaponsPayload of Y20?,Machine Guns
+Y20,What is the TransportCapacity of Y20?,42 personnel or 6804 kg cargo
+Y20,What is the Operators of Y20?,"Russia, China"
+Y20,What is the CombatHistory of Y20?,Yes
+Y20,What is the NotableMissions of Y20?,Y20 participated in major operations.
+Y20,What is the ActiveService of Y20?,No
+Y20,What is the Comparison of Y20?,Y20 is often compared with F35.
+Y20,What is the BetterThan of Y20?,Y20 is better than older gen aircraft.
+Y20,What is the StealthCapable of Y20?,No
+Y20,What is the DifferenceFrom of Y20?,Y20 differs from Su34 in design and avionics.
+Y20,What is the MannedOrUnmanned of Y20?,Unmanned
+Y20,What is the InterestingFacts of Y20?,Y20 has unique stealth tech.
+Y20,What is the UniqueFeatures of Y20?,Y20 supports vertical takeoff or special radar systems.
+KJ600,What is the Name of KJ600?,KJ600 Name
+KJ600,What is the FullDesignation of KJ600?,KJ600 Full Designation
+KJ600,What is the Manufacturer of KJ600?,Chengdu
+KJ600,What is the FirstIntroduced of KJ600?,2020
+KJ600,What is the CountryOfOrigin of KJ600?,Russia
+KJ600,What is the MaxSpeed of KJ600?,2088 km/h
+KJ600,What is the Range of KJ600?,12852 km
+KJ600,What is the ServiceCeiling of KJ600?,21785 m
+KJ600,What is the EngineType of KJ600?,Turbofan
+KJ600,What is the Weight of KJ600?,"19635 kg (empty), 48675 kg (max)"
+KJ600,What is the Dimensions of KJ600?,"11 m length, 23 m wingspan"
+KJ600,What is the Role of KJ600?,Bomber
+KJ600,What is the SurveillanceCapable of KJ600?,Yes
+KJ600,What is the NuclearCapable of KJ600?,Yes
+KJ600,What is the WeaponsPayload of KJ600?,Machine Guns
+KJ600,What is the TransportCapacity of KJ600?,94 personnel or 1255 kg cargo
+KJ600,What is the Operators of KJ600?,"France, Germany"
+KJ600,What is the CombatHistory of KJ600?,No
+KJ600,What is the NotableMissions of KJ600?,KJ600 participated in major operations.
+KJ600,What is the ActiveService of KJ600?,No
+KJ600,What is the Comparison of KJ600?,KJ600 is often compared with F35.
+KJ600,What is the BetterThan of KJ600?,KJ600 is better than older gen aircraft.
+KJ600,What is the StealthCapable of KJ600?,No
+KJ600,What is the DifferenceFrom of KJ600?,KJ600 differs from Su34 in design and avionics.
+KJ600,What is the MannedOrUnmanned of KJ600?,Unmanned
+KJ600,What is the InterestingFacts of KJ600?,KJ600 has unique stealth tech.
+KJ600,What is the UniqueFeatures of KJ600?,KJ600 supports vertical takeoff or special radar systems.
+Mig29,What is the Name of Mig29?,Mig29 Name
+Mig29,What is the FullDesignation of Mig29?,Mig29 Full Designation
+Mig29,What is the Manufacturer of Mig29?,Airbus
+Mig29,What is the FirstIntroduced of Mig29?,2010
+Mig29,What is the CountryOfOrigin of Mig29?,Russia
+Mig29,What is the MaxSpeed of Mig29?,2345 km/h
+Mig29,What is the Range of Mig29?,3202 km
+Mig29,What is the ServiceCeiling of Mig29?,13345 m
+Mig29,What is the EngineType of Mig29?,Turbojet
+Mig29,What is the Weight of Mig29?,"38711 kg (empty), 57788 kg (max)"
+Mig29,What is the Dimensions of Mig29?,"26 m length, 30 m wingspan"
+Mig29,What is the Role of Mig29?,Reconnaissance
+Mig29,What is the SurveillanceCapable of Mig29?,Yes
+Mig29,What is the NuclearCapable of Mig29?,Yes
+Mig29,What is the WeaponsPayload of Mig29?,Torpedoes
+Mig29,What is the TransportCapacity of Mig29?,55 personnel or 39281 kg cargo
+Mig29,What is the Operators of Mig29?,"France, Germany"
+Mig29,What is the CombatHistory of Mig29?,No
+Mig29,What is the NotableMissions of Mig29?,Mig29 participated in major operations.
+Mig29,What is the ActiveService of Mig29?,Yes
+Mig29,What is the Comparison of Mig29?,Mig29 is often compared with F35.
+Mig29,What is the BetterThan of Mig29?,Mig29 is better than older gen aircraft.
+Mig29,What is the StealthCapable of Mig29?,No
+Mig29,What is the DifferenceFrom of Mig29?,Mig29 differs from Su34 in design and avionics.
+Mig29,What is the MannedOrUnmanned of Mig29?,Unmanned
+Mig29,What is the InterestingFacts of Mig29?,Mig29 has unique stealth tech.
+Mig29,What is the UniqueFeatures of Mig29?,Mig29 supports vertical takeoff or special radar systems.
+B2,What is the Name of B2?,B2 Name
+B2,What is the FullDesignation of B2?,B2 Full Designation
+B2,What is the Manufacturer of B2?,Airbus
+B2,What is the FirstIntroduced of B2?,1980
+B2,What is the CountryOfOrigin of B2?,Russia
+B2,What is the MaxSpeed of B2?,877 km/h
+B2,What is the Range of B2?,4391 km
+B2,What is the ServiceCeiling of B2?,19972 m
+B2,What is the EngineType of B2?,Turbojet
+B2,What is the Weight of B2?,"70196 kg (empty), 66421 kg (max)"
+B2,What is the Dimensions of B2?,"39 m length, 15 m wingspan"
+B2,What is the Role of B2?,Reconnaissance
+B2,What is the SurveillanceCapable of B2?,Yes
+B2,What is the NuclearCapable of B2?,No
+B2,What is the WeaponsPayload of B2?,Machine Guns
+B2,What is the TransportCapacity of B2?,2 personnel or 22269 kg cargo
+B2,What is the Operators of B2?,"USA, UK"
+B2,What is the CombatHistory of B2?,No
+B2,What is the NotableMissions of B2?,B2 participated in major operations.
+B2,What is the ActiveService of B2?,No
+B2,What is the Comparison of B2?,B2 is often compared with F35.
+B2,What is the BetterThan of B2?,B2 is better than older gen aircraft.
+B2,What is the StealthCapable of B2?,No
+B2,What is the DifferenceFrom of B2?,B2 differs from Su34 in design and avionics.
+B2,What is the MannedOrUnmanned of B2?,Manned
+B2,What is the InterestingFacts of B2?,B2 has unique stealth tech.
+B2,What is the UniqueFeatures of B2?,B2 supports vertical takeoff or special radar systems.
+F14,What is the Name of F14?,F14 Name
+F14,What is the FullDesignation of F14?,F14 Full Designation
+F14,What is the Manufacturer of F14?,Chengdu
+F14,What is the FirstIntroduced of F14?,2010
+F14,What is the CountryOfOrigin of F14?,China
+F14,What is the MaxSpeed of F14?,2844 km/h
+F14,What is the Range of F14?,9827 km
+F14,What is the ServiceCeiling of F14?,17725 m
+F14,What is the EngineType of F14?,Rotary
+F14,What is the Weight of F14?,"51727 kg (empty), 133366 kg (max)"
+F14,What is the Dimensions of F14?,"29 m length, 51 m wingspan"
+F14,What is the Role of F14?,Transport
+F14,What is the SurveillanceCapable of F14?,Yes
+F14,What is the NuclearCapable of F14?,No
+F14,What is the WeaponsPayload of F14?,Machine Guns
+F14,What is the TransportCapacity of F14?,94 personnel or 37371 kg cargo
+F14,What is the Operators of F14?,Global
+F14,What is the CombatHistory of F14?,No
+F14,What is the NotableMissions of F14?,F14 participated in major operations.
+F14,What is the ActiveService of F14?,Yes
+F14,What is the Comparison of F14?,F14 is often compared with F35.
+F14,What is the BetterThan of F14?,F14 is better than older gen aircraft.
+F14,What is the StealthCapable of F14?,No
+F14,What is the DifferenceFrom of F14?,F14 differs from Su34 in design and avionics.
+F14,What is the MannedOrUnmanned of F14?,Unmanned
+F14,What is the InterestingFacts of F14?,F14 has unique stealth tech.
+F14,What is the UniqueFeatures of F14?,F14 supports vertical takeoff or special radar systems.
+Il76,What is the Name of Il76?,Il76 Name
+Il76,What is the FullDesignation of Il76?,Il76 Full Designation
+Il76,What is the Manufacturer of Il76?,Lockheed Martin
+Il76,What is the FirstIntroduced of Il76?,2005
+Il76,What is the CountryOfOrigin of Il76?,USA
+Il76,What is the MaxSpeed of Il76?,1458 km/h
+Il76,What is the Range of Il76?,10853 km
+Il76,What is the ServiceCeiling of Il76?,12780 m
+Il76,What is the EngineType of Il76?,Turbojet
+Il76,What is the Weight of Il76?,"70977 kg (empty), 52669 kg (max)"
+Il76,What is the Dimensions of Il76?,"36 m length, 52 m wingspan"
+Il76,What is the Role of Il76?,Bomber
+Il76,What is the SurveillanceCapable of Il76?,No
+Il76,What is the NuclearCapable of Il76?,Yes
+Il76,What is the WeaponsPayload of Il76?,Machine Guns
+Il76,What is the TransportCapacity of Il76?,17 personnel or 29491 kg cargo
+Il76,What is the Operators of Il76?,"Russia, China"
+Il76,What is the CombatHistory of Il76?,No
+Il76,What is the NotableMissions of Il76?,Il76 participated in major operations.
+Il76,What is the ActiveService of Il76?,Yes
+Il76,What is the Comparison of Il76?,Il76 is often compared with F35.
+Il76,What is the BetterThan of Il76?,Il76 is better than older gen aircraft.
+Il76,What is the StealthCapable of Il76?,No
+Il76,What is the DifferenceFrom of Il76?,Il76 differs from Su34 in design and avionics.
+Il76,What is the MannedOrUnmanned of Il76?,Unmanned
+Il76,What is the InterestingFacts of Il76?,Il76 has unique stealth tech.
+Il76,What is the UniqueFeatures of Il76?,Il76 supports vertical takeoff or special radar systems.
+F35,What is the Name of F35?,F35 Name
+F35,What is the FullDesignation of F35?,F35 Full Designation
+F35,What is the Manufacturer of F35?,Chengdu
+F35,What is the FirstIntroduced of F35?,1980
+F35,What is the CountryOfOrigin of F35?,Russia
+F35,What is the MaxSpeed of F35?,2659 km/h
+F35,What is the Range of F35?,13105 km
+F35,What is the ServiceCeiling of F35?,21565 m
+F35,What is the EngineType of F35?,Turboprop
+F35,What is the Weight of F35?,"77395 kg (empty), 86672 kg (max)"
+F35,What is the Dimensions of F35?,"31 m length, 41 m wingspan"
+F35,What is the Role of F35?,Reconnaissance
+F35,What is the SurveillanceCapable of F35?,No
+F35,What is the NuclearCapable of F35?,No
+F35,What is the WeaponsPayload of F35?,Machine Guns
+F35,What is the TransportCapacity of F35?,51 personnel or 48806 kg cargo
+F35,What is the Operators of F35?,"USA, UK"
+F35,What is the CombatHistory of F35?,No
+F35,What is the NotableMissions of F35?,F35 participated in major operations.
+F35,What is the ActiveService of F35?,Yes
+F35,What is the Comparison of F35?,F35 is often compared with F35.
+F35,What is the BetterThan of F35?,F35 is better than older gen aircraft.
+F35,What is the StealthCapable of F35?,No
+F35,What is the DifferenceFrom of F35?,F35 differs from Su34 in design and avionics.
+F35,What is the MannedOrUnmanned of F35?,Unmanned
+F35,What is the InterestingFacts of F35?,F35 has unique stealth tech.
+F35,What is the UniqueFeatures of F35?,F35 supports vertical takeoff or special radar systems.
+B1,What is the Name of B1?,B1 Name
+B1,What is the FullDesignation of B1?,B1 Full Designation
+B1,What is the Manufacturer of B1?,Airbus
+B1,What is the FirstIntroduced of B1?,2020
+B1,What is the CountryOfOrigin of B1?,Russia
+B1,What is the MaxSpeed of B1?,2351 km/h
+B1,What is the Range of B1?,2865 km
+B1,What is the ServiceCeiling of B1?,24854 m
+B1,What is the EngineType of B1?,Turbojet
+B1,What is the Weight of B1?,"50392 kg (empty), 39870 kg (max)"
+B1,What is the Dimensions of B1?,"21 m length, 20 m wingspan"
+B1,What is the Role of B1?,Surveillance
+B1,What is the SurveillanceCapable of B1?,Yes
+B1,What is the NuclearCapable of B1?,Yes
+B1,What is the WeaponsPayload of B1?,Machine Guns
+B1,What is the TransportCapacity of B1?,6 personnel or 49480 kg cargo
+B1,What is the Operators of B1?,"USA, UK"
+B1,What is the CombatHistory of B1?,No
+B1,What is the NotableMissions of B1?,B1 participated in major operations.
+B1,What is the ActiveService of B1?,No
+B1,What is the Comparison of B1?,B1 is often compared with F35.
+B1,What is the BetterThan of B1?,B1 is better than older gen aircraft.
+B1,What is the StealthCapable of B1?,Yes
+B1,What is the DifferenceFrom of B1?,B1 differs from Su34 in design and avionics.
+B1,What is the MannedOrUnmanned of B1?,Manned
+B1,What is the InterestingFacts of B1?,B1 has unique stealth tech.
+B1,What is the UniqueFeatures of B1?,B1 supports vertical takeoff or special radar systems.
+AG600,What is the Name of AG600?,AG600 Name
+AG600,What is the FullDesignation of AG600?,AG600 Full Designation
+AG600,What is the Manufacturer of AG600?,Sukhoi
+AG600,What is the FirstIntroduced of AG600?,2020
+AG600,What is the CountryOfOrigin of AG600?,UK
+AG600,What is the MaxSpeed of AG600?,1886 km/h
+AG600,What is the Range of AG600?,10281 km
+AG600,What is the ServiceCeiling of AG600?,17005 m
+AG600,What is the EngineType of AG600?,Rotary
+AG600,What is the Weight of AG600?,"15923 kg (empty), 49494 kg (max)"
+AG600,What is the Dimensions of AG600?,"40 m length, 51 m wingspan"
+AG600,What is the Role of AG600?,Reconnaissance
+AG600,What is the SurveillanceCapable of AG600?,Yes
+AG600,What is the NuclearCapable of AG600?,No
+AG600,What is the WeaponsPayload of AG600?,Machine Guns
+AG600,What is the TransportCapacity of AG600?,97 personnel or 4946 kg cargo
+AG600,What is the Operators of AG600?,"USA, UK"
+AG600,What is the CombatHistory of AG600?,Yes
+AG600,What is the NotableMissions of AG600?,AG600 participated in major operations.
+AG600,What is the ActiveService of AG600?,No
+AG600,What is the Comparison of AG600?,AG600 is often compared with F35.
+AG600,What is the BetterThan of AG600?,AG600 is better than older gen aircraft.
+AG600,What is the StealthCapable of AG600?,No
+AG600,What is the DifferenceFrom of AG600?,AG600 differs from Su34 in design and avionics.
+AG600,What is the MannedOrUnmanned of AG600?,Unmanned
+AG600,What is the InterestingFacts of AG600?,AG600 has unique stealth tech.
+AG600,What is the UniqueFeatures of AG600?,AG600 supports vertical takeoff or special radar systems.
+Ka52,What is the Name of Ka52?,Ka52 Name
+Ka52,What is the FullDesignation of Ka52?,Ka52 Full Designation
+Ka52,What is the Manufacturer of Ka52?,Airbus
+Ka52,What is the FirstIntroduced of Ka52?,2020
+Ka52,What is the CountryOfOrigin of Ka52?,USA
+Ka52,What is the MaxSpeed of Ka52?,1577 km/h
+Ka52,What is the Range of Ka52?,12198 km
+Ka52,What is the ServiceCeiling of Ka52?,20509 m
+Ka52,What is the EngineType of Ka52?,Turbofan
+Ka52,What is the Weight of Ka52?,"66965 kg (empty), 140188 kg (max)"
+Ka52,What is the Dimensions of Ka52?,"30 m length, 50 m wingspan"
+Ka52,What is the Role of Ka52?,Reconnaissance
+Ka52,What is the SurveillanceCapable of Ka52?,Yes
+Ka52,What is the NuclearCapable of Ka52?,Yes
+Ka52,What is the WeaponsPayload of Ka52?,Bombs
+Ka52,What is the TransportCapacity of Ka52?,41 personnel or 26749 kg cargo
+Ka52,What is the Operators of Ka52?,Global
+Ka52,What is the CombatHistory of Ka52?,Yes
+Ka52,What is the NotableMissions of Ka52?,Ka52 participated in major operations.
+Ka52,What is the ActiveService of Ka52?,No
+Ka52,What is the Comparison of Ka52?,Ka52 is often compared with F35.
+Ka52,What is the BetterThan of Ka52?,Ka52 is better than older gen aircraft.
+Ka52,What is the StealthCapable of Ka52?,Yes
+Ka52,What is the DifferenceFrom of Ka52?,Ka52 differs from Su34 in design and avionics.
+Ka52,What is the MannedOrUnmanned of Ka52?,Manned
+Ka52,What is the InterestingFacts of Ka52?,Ka52 has unique stealth tech.
+Ka52,What is the UniqueFeatures of Ka52?,Ka52 supports vertical takeoff or special radar systems.
+JF17,What is the Name of JF17?,JF17 Name
+JF17,What is the FullDesignation of JF17?,JF17 Full Designation
+JF17,What is the Manufacturer of JF17?,Sukhoi
+JF17,What is the FirstIntroduced of JF17?,1995
+JF17,What is the CountryOfOrigin of JF17?,Russia
+JF17,What is the MaxSpeed of JF17?,1321 km/h
+JF17,What is the Range of JF17?,6497 km
+JF17,What is the ServiceCeiling of JF17?,10231 m
+JF17,What is the EngineType of JF17?,Turboprop
+JF17,What is the Weight of JF17?,"79664 kg (empty), 144655 kg (max)"
+JF17,What is the Dimensions of JF17?,"33 m length, 22 m wingspan"
+JF17,What is the Role of JF17?,Fighter
+JF17,What is the SurveillanceCapable of JF17?,Yes
+JF17,What is the NuclearCapable of JF17?,No
+JF17,What is the WeaponsPayload of JF17?,Bombs
+JF17,What is the TransportCapacity of JF17?,13 personnel or 49601 kg cargo
+JF17,What is the Operators of JF17?,"USA, UK"
+JF17,What is the CombatHistory of JF17?,No
+JF17,What is the NotableMissions of JF17?,JF17 participated in major operations.
+JF17,What is the ActiveService of JF17?,No
+JF17,What is the Comparison of JF17?,JF17 is often compared with F35.
+JF17,What is the BetterThan of JF17?,JF17 is better than older gen aircraft.
+JF17,What is the StealthCapable of JF17?,Yes
+JF17,What is the DifferenceFrom of JF17?,JF17 differs from Su34 in design and avionics.
+JF17,What is the MannedOrUnmanned of JF17?,Manned
+JF17,What is the InterestingFacts of JF17?,JF17 has unique stealth tech.
+JF17,What is the UniqueFeatures of JF17?,JF17 supports vertical takeoff or special radar systems.
+C130,What is the Name of C130?,C130 Name
+C130,What is the FullDesignation of C130?,C130 Full Designation
+C130,What is the Manufacturer of C130?,Boeing
+C130,What is the FirstIntroduced of C130?,1980
+C130,What is the CountryOfOrigin of C130?,China
+C130,What is the MaxSpeed of C130?,1188 km/h
+C130,What is the Range of C130?,8175 km
+C130,What is the ServiceCeiling of C130?,23770 m
+C130,What is the EngineType of C130?,Turbojet
+C130,What is the Weight of C130?,"47714 kg (empty), 110607 kg (max)"
+C130,What is the Dimensions of C130?,"38 m length, 41 m wingspan"
+C130,What is the Role of C130?,Bomber
+C130,What is the SurveillanceCapable of C130?,No
+C130,What is the NuclearCapable of C130?,No
+C130,What is the WeaponsPayload of C130?,Machine Guns
+C130,What is the TransportCapacity of C130?,94 personnel or 9829 kg cargo
+C130,What is the Operators of C130?,Global
+C130,What is the CombatHistory of C130?,Yes
+C130,What is the NotableMissions of C130?,C130 participated in major operations.
+C130,What is the ActiveService of C130?,Yes
+C130,What is the Comparison of C130?,C130 is often compared with F35.
+C130,What is the BetterThan of C130?,C130 is better than older gen aircraft.
+C130,What is the StealthCapable of C130?,Yes
+C130,What is the DifferenceFrom of C130?,C130 differs from Su34 in design and avionics.
+C130,What is the MannedOrUnmanned of C130?,Manned
+C130,What is the InterestingFacts of C130?,C130 has unique stealth tech.
+C130,What is the UniqueFeatures of C130?,C130 supports vertical takeoff or special radar systems.
+Rafale,What is the Name of Rafale?,Rafale Name
+Rafale,What is the FullDesignation of Rafale?,Rafale Full Designation
+Rafale,What is the Manufacturer of Rafale?,Chengdu
+Rafale,What is the FirstIntroduced of Rafale?,1980
+Rafale,What is the CountryOfOrigin of Rafale?,UK
+Rafale,What is the MaxSpeed of Rafale?,2184 km/h
+Rafale,What is the Range of Rafale?,3205 km
+Rafale,What is the ServiceCeiling of Rafale?,15373 m
+Rafale,What is the EngineType of Rafale?,Turbofan
+Rafale,What is the Weight of Rafale?,"67335 kg (empty), 138798 kg (max)"
+Rafale,What is the Dimensions of Rafale?,"22 m length, 52 m wingspan"
+Rafale,What is the Role of Rafale?,Fighter
+Rafale,What is the SurveillanceCapable of Rafale?,Yes
+Rafale,What is the NuclearCapable of Rafale?,No
+Rafale,What is the WeaponsPayload of Rafale?,Bombs
+Rafale,What is the TransportCapacity of Rafale?,21 personnel or 24781 kg cargo
+Rafale,What is the Operators of Rafale?,Global
+Rafale,What is the CombatHistory of Rafale?,Yes
+Rafale,What is the NotableMissions of Rafale?,Rafale participated in major operations.
+Rafale,What is the ActiveService of Rafale?,Yes
+Rafale,What is the Comparison of Rafale?,Rafale is often compared with F35.
+Rafale,What is the BetterThan of Rafale?,Rafale is better than older gen aircraft.
+Rafale,What is the StealthCapable of Rafale?,Yes
+Rafale,What is the DifferenceFrom of Rafale?,Rafale differs from Su34 in design and avionics.
+Rafale,What is the MannedOrUnmanned of Rafale?,Manned
+Rafale,What is the InterestingFacts of Rafale?,Rafale has unique stealth tech.
+Rafale,What is the UniqueFeatures of Rafale?,Rafale supports vertical takeoff or special radar systems.
+KF21,What is the Name of KF21?,KF21 Name
+KF21,What is the FullDesignation of KF21?,KF21 Full Designation
+KF21,What is the Manufacturer of KF21?,Sukhoi
+KF21,What is the FirstIntroduced of KF21?,2010
+KF21,What is the CountryOfOrigin of KF21?,Russia
+KF21,What is the MaxSpeed of KF21?,2151 km/h
+KF21,What is the Range of KF21?,7553 km
+KF21,What is the ServiceCeiling of KF21?,23036 m
+KF21,What is the EngineType of KF21?,Rotary
+KF21,What is the Weight of KF21?,"31842 kg (empty), 59036 kg (max)"
+KF21,What is the Dimensions of KF21?,"38 m length, 19 m wingspan"
+KF21,What is the Role of KF21?,Fighter
+KF21,What is the SurveillanceCapable of KF21?,No
+KF21,What is the NuclearCapable of KF21?,No
+KF21,What is the WeaponsPayload of KF21?,Torpedoes
+KF21,What is the TransportCapacity of KF21?,33 personnel or 14245 kg cargo
+KF21,What is the Operators of KF21?,Global
+KF21,What is the CombatHistory of KF21?,No
+KF21,What is the NotableMissions of KF21?,KF21 participated in major operations.
+KF21,What is the ActiveService of KF21?,Yes
+KF21,What is the Comparison of KF21?,KF21 is often compared with F35.
+KF21,What is the BetterThan of KF21?,KF21 is better than older gen aircraft.
+KF21,What is the StealthCapable of KF21?,Yes
+KF21,What is the DifferenceFrom of KF21?,KF21 differs from Su34 in design and avionics.
+KF21,What is the MannedOrUnmanned of KF21?,Manned
+KF21,What is the InterestingFacts of KF21?,KF21 has unique stealth tech.
+KF21,What is the UniqueFeatures of KF21?,KF21 supports vertical takeoff or special radar systems.
+Ka27,What is the Name of Ka27?,Ka27 Name
+Ka27,What is the FullDesignation of Ka27?,Ka27 Full Designation
+Ka27,What is the Manufacturer of Ka27?,Boeing
+Ka27,What is the FirstIntroduced of Ka27?,2005
+Ka27,What is the CountryOfOrigin of Ka27?,Russia
+Ka27,What is the MaxSpeed of Ka27?,2697 km/h
+Ka27,What is the Range of Ka27?,2131 km
+Ka27,What is the ServiceCeiling of Ka27?,12459 m
+Ka27,What is the EngineType of Ka27?,Turbofan
+Ka27,What is the Weight of Ka27?,"35331 kg (empty), 89329 kg (max)"
+Ka27,What is the Dimensions of Ka27?,"20 m length, 45 m wingspan"
+Ka27,What is the Role of Ka27?,Reconnaissance
+Ka27,What is the SurveillanceCapable of Ka27?,Yes
+Ka27,What is the NuclearCapable of Ka27?,No
+Ka27,What is the WeaponsPayload of Ka27?,Torpedoes
+Ka27,What is the TransportCapacity of Ka27?,19 personnel or 20814 kg cargo
+Ka27,What is the Operators of Ka27?,Global
+Ka27,What is the CombatHistory of Ka27?,No
+Ka27,What is the NotableMissions of Ka27?,Ka27 participated in major operations.
+Ka27,What is the ActiveService of Ka27?,Yes
+Ka27,What is the Comparison of Ka27?,Ka27 is often compared with F35.
+Ka27,What is the BetterThan of Ka27?,Ka27 is better than older gen aircraft.
+Ka27,What is the StealthCapable of Ka27?,No
+Ka27,What is the DifferenceFrom of Ka27?,Ka27 differs from Su34 in design and avionics.
+Ka27,What is the MannedOrUnmanned of Ka27?,Unmanned
+Ka27,What is the InterestingFacts of Ka27?,Ka27 has unique stealth tech.
+Ka27,What is the UniqueFeatures of Ka27?,Ka27 supports vertical takeoff or special radar systems.
+KC135,What is the Name of KC135?,KC135 Name
+KC135,What is the FullDesignation of KC135?,KC135 Full Designation
+KC135,What is the Manufacturer of KC135?,Lockheed Martin
+KC135,What is the FirstIntroduced of KC135?,1980
+KC135,What is the CountryOfOrigin of KC135?,USA
+KC135,What is the MaxSpeed of KC135?,2668 km/h
+KC135,What is the Range of KC135?,12189 km
+KC135,What is the ServiceCeiling of KC135?,24898 m
+KC135,What is the EngineType of KC135?,Turboprop
+KC135,What is the Weight of KC135?,"59372 kg (empty), 53486 kg (max)"
+KC135,What is the Dimensions of KC135?,"14 m length, 60 m wingspan"
+KC135,What is the Role of KC135?,Bomber
+KC135,What is the SurveillanceCapable of KC135?,No
+KC135,What is the NuclearCapable of KC135?,Yes
+KC135,What is the WeaponsPayload of KC135?,Bombs
+KC135,What is the TransportCapacity of KC135?,85 personnel or 28475 kg cargo
+KC135,What is the Operators of KC135?,"France, Germany"
+KC135,What is the CombatHistory of KC135?,Yes
+KC135,What is the NotableMissions of KC135?,KC135 participated in major operations.
+KC135,What is the ActiveService of KC135?,No
+KC135,What is the Comparison of KC135?,KC135 is often compared with F35.
+KC135,What is the BetterThan of KC135?,KC135 is better than older gen aircraft.
+KC135,What is the StealthCapable of KC135?,No
+KC135,What is the DifferenceFrom of KC135?,KC135 differs from Su34 in design and avionics.
+KC135,What is the MannedOrUnmanned of KC135?,Manned
+KC135,What is the InterestingFacts of KC135?,KC135 has unique stealth tech.
+KC135,What is the UniqueFeatures of KC135?,KC135 supports vertical takeoff or special radar systems.
+An225,What is the Name of An225?,An225 Name
+An225,What is the FullDesignation of An225?,An225 Full Designation
+An225,What is the Manufacturer of An225?,Airbus
+An225,What is the FirstIntroduced of An225?,2010
+An225,What is the CountryOfOrigin of An225?,China
+An225,What is the MaxSpeed of An225?,2938 km/h
+An225,What is the Range of An225?,2156 km
+An225,What is the ServiceCeiling of An225?,22470 m
+An225,What is the EngineType of An225?,Turbojet
+An225,What is the Weight of An225?,"66228 kg (empty), 53793 kg (max)"
+An225,What is the Dimensions of An225?,"12 m length, 44 m wingspan"
+An225,What is the Role of An225?,Reconnaissance
+An225,What is the SurveillanceCapable of An225?,Yes
+An225,What is the NuclearCapable of An225?,No
+An225,What is the WeaponsPayload of An225?,Missiles
+An225,What is the TransportCapacity of An225?,77 personnel or 42817 kg cargo
+An225,What is the Operators of An225?,"Russia, China"
+An225,What is the CombatHistory of An225?,No
+An225,What is the NotableMissions of An225?,An225 participated in major operations.
+An225,What is the ActiveService of An225?,Yes
+An225,What is the Comparison of An225?,An225 is often compared with F35.
+An225,What is the BetterThan of An225?,An225 is better than older gen aircraft.
+An225,What is the StealthCapable of An225?,Yes
+An225,What is the DifferenceFrom of An225?,An225 differs from Su34 in design and avionics.
+An225,What is the MannedOrUnmanned of An225?,Unmanned
+An225,What is the InterestingFacts of An225?,An225 has unique stealth tech.
+An225,What is the UniqueFeatures of An225?,An225 supports vertical takeoff or special radar systems.
+P3,What is the Name of P3?,P3 Name
+P3,What is the FullDesignation of P3?,P3 Full Designation
+P3,What is the Manufacturer of P3?,Airbus
+P3,What is the FirstIntroduced of P3?,2020
+P3,What is the CountryOfOrigin of P3?,USA
+P3,What is the MaxSpeed of P3?,956 km/h
+P3,What is the Range of P3?,7122 km
+P3,What is the ServiceCeiling of P3?,22700 m
+P3,What is the EngineType of P3?,Turbojet
+P3,What is the Weight of P3?,"31077 kg (empty), 131231 kg (max)"
+P3,What is the Dimensions of P3?,"23 m length, 34 m wingspan"
+P3,What is the Role of P3?,Transport
+P3,What is the SurveillanceCapable of P3?,Yes
+P3,What is the NuclearCapable of P3?,Yes
+P3,What is the WeaponsPayload of P3?,Bombs
+P3,What is the TransportCapacity of P3?,19 personnel or 4821 kg cargo
+P3,What is the Operators of P3?,Global
+P3,What is the CombatHistory of P3?,No
+P3,What is the NotableMissions of P3?,P3 participated in major operations.
+P3,What is the ActiveService of P3?,No
+P3,What is the Comparison of P3?,P3 is often compared with F35.
+P3,What is the BetterThan of P3?,P3 is better than older gen aircraft.
+P3,What is the StealthCapable of P3?,Yes
+P3,What is the DifferenceFrom of P3?,P3 differs from Su34 in design and avionics.
+P3,What is the MannedOrUnmanned of P3?,Unmanned
+P3,What is the InterestingFacts of P3?,P3 has unique stealth tech.
+P3,What is the UniqueFeatures of P3?,P3 supports vertical takeoff or special radar systems.
+Tornado,What is the Name of Tornado?,Tornado Name
+Tornado,What is the FullDesignation of Tornado?,Tornado Full Designation
+Tornado,What is the Manufacturer of Tornado?,Dassault
+Tornado,What is the FirstIntroduced of Tornado?,2020
+Tornado,What is the CountryOfOrigin of Tornado?,UK
+Tornado,What is the MaxSpeed of Tornado?,1317 km/h
+Tornado,What is the Range of Tornado?,4156 km
+Tornado,What is the ServiceCeiling of Tornado?,24478 m
+Tornado,What is the EngineType of Tornado?,Turbojet
+Tornado,What is the Weight of Tornado?,"67486 kg (empty), 142614 kg (max)"
+Tornado,What is the Dimensions of Tornado?,"27 m length, 35 m wingspan"
+Tornado,What is the Role of Tornado?,Reconnaissance
+Tornado,What is the SurveillanceCapable of Tornado?,Yes
+Tornado,What is the NuclearCapable of Tornado?,Yes
+Tornado,What is the WeaponsPayload of Tornado?,Torpedoes
+Tornado,What is the TransportCapacity of Tornado?,73 personnel or 8842 kg cargo
+Tornado,What is the Operators of Tornado?,"Russia, China"
+Tornado,What is the CombatHistory of Tornado?,Yes
+Tornado,What is the NotableMissions of Tornado?,Tornado participated in major operations.
+Tornado,What is the ActiveService of Tornado?,No
+Tornado,What is the Comparison of Tornado?,Tornado is often compared with F35.
+Tornado,What is the BetterThan of Tornado?,Tornado is better than older gen aircraft.
+Tornado,What is the StealthCapable of Tornado?,No
+Tornado,What is the DifferenceFrom of Tornado?,Tornado differs from Su34 in design and avionics.
+Tornado,What is the MannedOrUnmanned of Tornado?,Unmanned
+Tornado,What is the InterestingFacts of Tornado?,Tornado has unique stealth tech.
+Tornado,What is the UniqueFeatures of Tornado?,Tornado supports vertical takeoff or special radar systems.
+C2,What is the Name of C2?,C2 Name
+C2,What is the FullDesignation of C2?,C2 Full Designation
+C2,What is the Manufacturer of C2?,Dassault
+C2,What is the FirstIntroduced of C2?,2010
+C2,What is the CountryOfOrigin of C2?,France
+C2,What is the MaxSpeed of C2?,2982 km/h
+C2,What is the Range of C2?,13602 km
+C2,What is the ServiceCeiling of C2?,16972 m
+C2,What is the EngineType of C2?,Turbojet
+C2,What is the Weight of C2?,"45918 kg (empty), 110222 kg (max)"
+C2,What is the Dimensions of C2?,"35 m length, 57 m wingspan"
+C2,What is the Role of C2?,Fighter
+C2,What is the SurveillanceCapable of C2?,Yes
+C2,What is the NuclearCapable of C2?,No
+C2,What is the WeaponsPayload of C2?,Machine Guns
+C2,What is the TransportCapacity of C2?,49 personnel or 23736 kg cargo
+C2,What is the Operators of C2?,Global
+C2,What is the CombatHistory of C2?,Yes
+C2,What is the NotableMissions of C2?,C2 participated in major operations.
+C2,What is the ActiveService of C2?,No
+C2,What is the Comparison of C2?,C2 is often compared with F35.
+C2,What is the BetterThan of C2?,C2 is better than older gen aircraft.
+C2,What is the StealthCapable of C2?,No
+C2,What is the DifferenceFrom of C2?,C2 differs from Su34 in design and avionics.
+C2,What is the MannedOrUnmanned of C2?,Unmanned
+C2,What is the InterestingFacts of C2?,C2 has unique stealth tech.
+C2,What is the UniqueFeatures of C2?,C2 supports vertical takeoff or special radar systems.
+B52,What is the Name of B52?,B52 Name
+B52,What is the FullDesignation of B52?,B52 Full Designation
+B52,What is the Manufacturer of B52?,Lockheed Martin
+B52,What is the FirstIntroduced of B52?,2005
+B52,What is the CountryOfOrigin of B52?,France
+B52,What is the MaxSpeed of B52?,1395 km/h
+B52,What is the Range of B52?,8238 km
+B52,What is the ServiceCeiling of B52?,24297 m
+B52,What is the EngineType of B52?,Turboprop
+B52,What is the Weight of B52?,"70475 kg (empty), 143749 kg (max)"
+B52,What is the Dimensions of B52?,"18 m length, 28 m wingspan"
+B52,What is the Role of B52?,Fighter
+B52,What is the SurveillanceCapable of B52?,No
+B52,What is the NuclearCapable of B52?,Yes
+B52,What is the WeaponsPayload of B52?,Torpedoes
+B52,What is the TransportCapacity of B52?,99 personnel or 47463 kg cargo
+B52,What is the Operators of B52?,"USA, UK"
+B52,What is the CombatHistory of B52?,No
+B52,What is the NotableMissions of B52?,B52 participated in major operations.
+B52,What is the ActiveService of B52?,No
+B52,What is the Comparison of B52?,B52 is often compared with F35.
+B52,What is the BetterThan of B52?,B52 is better than older gen aircraft.
+B52,What is the StealthCapable of B52?,Yes
+B52,What is the DifferenceFrom of B52?,B52 differs from Su34 in design and avionics.
+B52,What is the MannedOrUnmanned of B52?,Manned
+B52,What is the InterestingFacts of B52?,B52 has unique stealth tech.
+B52,What is the UniqueFeatures of B52?,B52 supports vertical takeoff or special radar systems.
+CH47,What is the Name of CH47?,CH47 Name
+CH47,What is the FullDesignation of CH47?,CH47 Full Designation
+CH47,What is the Manufacturer of CH47?,Sukhoi
+CH47,What is the FirstIntroduced of CH47?,2020
+CH47,What is the CountryOfOrigin of CH47?,USA
+CH47,What is the MaxSpeed of CH47?,1582 km/h
+CH47,What is the Range of CH47?,14183 km
+CH47,What is the ServiceCeiling of CH47?,17683 m
+CH47,What is the EngineType of CH47?,Turbofan
+CH47,What is the Weight of CH47?,"55603 kg (empty), 60233 kg (max)"
+CH47,What is the Dimensions of CH47?,"19 m length, 52 m wingspan"
+CH47,What is the Role of CH47?,Surveillance
+CH47,What is the SurveillanceCapable of CH47?,No
+CH47,What is the NuclearCapable of CH47?,No
+CH47,What is the WeaponsPayload of CH47?,Missiles
+CH47,What is the TransportCapacity of CH47?,13 personnel or 11050 kg cargo
+CH47,What is the Operators of CH47?,Global
+CH47,What is the CombatHistory of CH47?,Yes
+CH47,What is the NotableMissions of CH47?,CH47 participated in major operations.
+CH47,What is the ActiveService of CH47?,No
+CH47,What is the Comparison of CH47?,CH47 is often compared with F35.
+CH47,What is the BetterThan of CH47?,CH47 is better than older gen aircraft.
+CH47,What is the StealthCapable of CH47?,No
+CH47,What is the DifferenceFrom of CH47?,CH47 differs from Su34 in design and avionics.
+CH47,What is the MannedOrUnmanned of CH47?,Unmanned
+CH47,What is the InterestingFacts of CH47?,CH47 has unique stealth tech.
+CH47,What is the UniqueFeatures of CH47?,CH47 supports vertical takeoff or special radar systems.
+A10,What is the Name of A10?,A10 Name
+A10,What is the FullDesignation of A10?,A10 Full Designation
+A10,What is the Manufacturer of A10?,Boeing
+A10,What is the FirstIntroduced of A10?,1995
+A10,What is the CountryOfOrigin of A10?,UK
+A10,What is the MaxSpeed of A10?,2905 km/h
+A10,What is the Range of A10?,7527 km
+A10,What is the ServiceCeiling of A10?,17572 m
+A10,What is the EngineType of A10?,Turbojet
+A10,What is the Weight of A10?,"59471 kg (empty), 70075 kg (max)"
+A10,What is the Dimensions of A10?,"25 m length, 22 m wingspan"
+A10,What is the Role of A10?,Surveillance
+A10,What is the SurveillanceCapable of A10?,Yes
+A10,What is the NuclearCapable of A10?,Yes
+A10,What is the WeaponsPayload of A10?,Bombs
+A10,What is the TransportCapacity of A10?,54 personnel or 42510 kg cargo
+A10,What is the Operators of A10?,"Russia, China"
+A10,What is the CombatHistory of A10?,No
+A10,What is the NotableMissions of A10?,A10 participated in major operations.
+A10,What is the ActiveService of A10?,No
+A10,What is the Comparison of A10?,A10 is often compared with F35.
+A10,What is the BetterThan of A10?,A10 is better than older gen aircraft.
+A10,What is the StealthCapable of A10?,No
+A10,What is the DifferenceFrom of A10?,A10 differs from Su34 in design and avionics.
+A10,What is the MannedOrUnmanned of A10?,Unmanned
+A10,What is the InterestingFacts of A10?,A10 has unique stealth tech.
+A10,What is the UniqueFeatures of A10?,A10 supports vertical takeoff or special radar systems.
+E7,What is the Name of E7?,E7 Name
+E7,What is the FullDesignation of E7?,E7 Full Designation
+E7,What is the Manufacturer of E7?,Airbus
+E7,What is the FirstIntroduced of E7?,1980
+E7,What is the CountryOfOrigin of E7?,UK
+E7,What is the MaxSpeed of E7?,2923 km/h
+E7,What is the Range of E7?,9220 km
+E7,What is the ServiceCeiling of E7?,14721 m
+E7,What is the EngineType of E7?,Turbojet
+E7,What is the Weight of E7?,"62305 kg (empty), 113766 kg (max)"
+E7,What is the Dimensions of E7?,"35 m length, 23 m wingspan"
+E7,What is the Role of E7?,Bomber
+E7,What is the SurveillanceCapable of E7?,Yes
+E7,What is the NuclearCapable of E7?,No
+E7,What is the WeaponsPayload of E7?,Machine Guns
+E7,What is the TransportCapacity of E7?,57 personnel or 49437 kg cargo
+E7,What is the Operators of E7?,"Russia, China"
+E7,What is the CombatHistory of E7?,Yes
+E7,What is the NotableMissions of E7?,E7 participated in major operations.
+E7,What is the ActiveService of E7?,No
+E7,What is the Comparison of E7?,E7 is often compared with F35.
+E7,What is the BetterThan of E7?,E7 is better than older gen aircraft.
+E7,What is the StealthCapable of E7?,No
+E7,What is the DifferenceFrom of E7?,E7 differs from Su34 in design and avionics.
+E7,What is the MannedOrUnmanned of E7?,Manned
+E7,What is the InterestingFacts of E7?,E7 has unique stealth tech.
+E7,What is the UniqueFeatures of E7?,E7 supports vertical takeoff or special radar systems.
+AV8B,What is the Name of AV8B?,AV8B Name
+AV8B,What is the FullDesignation of AV8B?,AV8B Full Designation
+AV8B,What is the Manufacturer of AV8B?,Airbus
+AV8B,What is the FirstIntroduced of AV8B?,1980
+AV8B,What is the CountryOfOrigin of AV8B?,USA
+AV8B,What is the MaxSpeed of AV8B?,1338 km/h
+AV8B,What is the Range of AV8B?,6841 km
+AV8B,What is the ServiceCeiling of AV8B?,23195 m
+AV8B,What is the EngineType of AV8B?,Rotary
+AV8B,What is the Weight of AV8B?,"77180 kg (empty), 73982 kg (max)"
+AV8B,What is the Dimensions of AV8B?,"20 m length, 47 m wingspan"
+AV8B,What is the Role of AV8B?,Surveillance
+AV8B,What is the SurveillanceCapable of AV8B?,No
+AV8B,What is the NuclearCapable of AV8B?,Yes
+AV8B,What is the WeaponsPayload of AV8B?,Bombs
+AV8B,What is the TransportCapacity of AV8B?,70 personnel or 14445 kg cargo
+AV8B,What is the Operators of AV8B?,Global
+AV8B,What is the CombatHistory of AV8B?,Yes
+AV8B,What is the NotableMissions of AV8B?,AV8B participated in major operations.
+AV8B,What is the ActiveService of AV8B?,Yes
+AV8B,What is the Comparison of AV8B?,AV8B is often compared with F35.
+AV8B,What is the BetterThan of AV8B?,AV8B is better than older gen aircraft.
+AV8B,What is the StealthCapable of AV8B?,No
+AV8B,What is the DifferenceFrom of AV8B?,AV8B differs from Su34 in design and avionics.
+AV8B,What is the MannedOrUnmanned of AV8B?,Unmanned
+AV8B,What is the InterestingFacts of AV8B?,AV8B has unique stealth tech.
+AV8B,What is the UniqueFeatures of AV8B?,AV8B supports vertical takeoff or special radar systems.
+KAAN,What is the Name of KAAN?,KAAN Name
+KAAN,What is the FullDesignation of KAAN?,KAAN Full Designation
+KAAN,What is the Manufacturer of KAAN?,Sukhoi
+KAAN,What is the FirstIntroduced of KAAN?,1980
+KAAN,What is the CountryOfOrigin of KAAN?,China
+KAAN,What is the MaxSpeed of KAAN?,2496 km/h
+KAAN,What is the Range of KAAN?,10953 km
+KAAN,What is the ServiceCeiling of KAAN?,21075 m
+KAAN,What is the EngineType of KAAN?,Turbofan
+KAAN,What is the Weight of KAAN?,"43037 kg (empty), 145091 kg (max)"
+KAAN,What is the Dimensions of KAAN?,"11 m length, 20 m wingspan"
+KAAN,What is the Role of KAAN?,Reconnaissance
+KAAN,What is the SurveillanceCapable of KAAN?,No
+KAAN,What is the NuclearCapable of KAAN?,No
+KAAN,What is the WeaponsPayload of KAAN?,Torpedoes
+KAAN,What is the TransportCapacity of KAAN?,34 personnel or 29468 kg cargo
+KAAN,What is the Operators of KAAN?,"France, Germany"
+KAAN,What is the CombatHistory of KAAN?,Yes
+KAAN,What is the NotableMissions of KAAN?,KAAN participated in major operations.
+KAAN,What is the ActiveService of KAAN?,Yes
+KAAN,What is the Comparison of KAAN?,KAAN is often compared with F35.
+KAAN,What is the BetterThan of KAAN?,KAAN is better than older gen aircraft.
+KAAN,What is the StealthCapable of KAAN?,Yes
+KAAN,What is the DifferenceFrom of KAAN?,KAAN differs from Su34 in design and avionics.
+KAAN,What is the MannedOrUnmanned of KAAN?,Manned
+KAAN,What is the InterestingFacts of KAAN?,KAAN has unique stealth tech.
+KAAN,What is the UniqueFeatures of KAAN?,KAAN supports vertical takeoff or special radar systems.
+F18,What is the Name of F18?,F18 Name
+F18,What is the FullDesignation of F18?,F18 Full Designation
+F18,What is the Manufacturer of F18?,Chengdu
+F18,What is the FirstIntroduced of F18?,1995
+F18,What is the CountryOfOrigin of F18?,UK
+F18,What is the MaxSpeed of F18?,2135 km/h
+F18,What is the Range of F18?,4416 km
+F18,What is the ServiceCeiling of F18?,18087 m
+F18,What is the EngineType of F18?,Turbofan
+F18,What is the Weight of F18?,"42344 kg (empty), 141812 kg (max)"
+F18,What is the Dimensions of F18?,"20 m length, 46 m wingspan"
+F18,What is the Role of F18?,Bomber
+F18,What is the SurveillanceCapable of F18?,Yes
+F18,What is the NuclearCapable of F18?,No
+F18,What is the WeaponsPayload of F18?,Machine Guns
+F18,What is the TransportCapacity of F18?,81 personnel or 29880 kg cargo
+F18,What is the Operators of F18?,Global
+F18,What is the CombatHistory of F18?,Yes
+F18,What is the NotableMissions of F18?,F18 participated in major operations.
+F18,What is the ActiveService of F18?,No
+F18,What is the Comparison of F18?,F18 is often compared with F35.
+F18,What is the BetterThan of F18?,F18 is better than older gen aircraft.
+F18,What is the StealthCapable of F18?,No
+F18,What is the DifferenceFrom of F18?,F18 differs from Su34 in design and avionics.
+F18,What is the MannedOrUnmanned of F18?,Manned
+F18,What is the InterestingFacts of F18?,F18 has unique stealth tech.
+F18,What is the UniqueFeatures of F18?,F18 supports vertical takeoff or special radar systems.
+EMB314,What is the Name of EMB314?,EMB314 Name
+EMB314,What is the FullDesignation of EMB314?,EMB314 Full Designation
+EMB314,What is the Manufacturer of EMB314?,Lockheed Martin
+EMB314,What is the FirstIntroduced of EMB314?,1995
+EMB314,What is the CountryOfOrigin of EMB314?,Russia
+EMB314,What is the MaxSpeed of EMB314?,2783 km/h
+EMB314,What is the Range of EMB314?,10225 km
+EMB314,What is the ServiceCeiling of EMB314?,19822 m
+EMB314,What is the EngineType of EMB314?,Turboprop
+EMB314,What is the Weight of EMB314?,"31819 kg (empty), 113462 kg (max)"
+EMB314,What is the Dimensions of EMB314?,"17 m length, 46 m wingspan"
+EMB314,What is the Role of EMB314?,Surveillance
+EMB314,What is the SurveillanceCapable of EMB314?,Yes
+EMB314,What is the NuclearCapable of EMB314?,Yes
+EMB314,What is the WeaponsPayload of EMB314?,Machine Guns
+EMB314,What is the TransportCapacity of EMB314?,36 personnel or 40531 kg cargo
+EMB314,What is the Operators of EMB314?,"France, Germany"
+EMB314,What is the CombatHistory of EMB314?,No
+EMB314,What is the NotableMissions of EMB314?,EMB314 participated in major operations.
+EMB314,What is the ActiveService of EMB314?,No
+EMB314,What is the Comparison of EMB314?,EMB314 is often compared with F35.
+EMB314,What is the BetterThan of EMB314?,EMB314 is better than older gen aircraft.
+EMB314,What is the StealthCapable of EMB314?,No
+EMB314,What is the DifferenceFrom of EMB314?,EMB314 differs from Su34 in design and avionics.
+EMB314,What is the MannedOrUnmanned of EMB314?,Manned
+EMB314,What is the InterestingFacts of EMB314?,EMB314 has unique stealth tech.
+EMB314,What is the UniqueFeatures of EMB314?,EMB314 supports vertical takeoff or special radar systems.
+UH60,What is the Name of UH60?,UH60 Name
+UH60,What is the FullDesignation of UH60?,UH60 Full Designation
+UH60,What is the Manufacturer of UH60?,Sukhoi
+UH60,What is the FirstIntroduced of UH60?,2010
+UH60,What is the CountryOfOrigin of UH60?,France
+UH60,What is the MaxSpeed of UH60?,1612 km/h
+UH60,What is the Range of UH60?,4125 km
+UH60,What is the ServiceCeiling of UH60?,23711 m
+UH60,What is the EngineType of UH60?,Turboprop
+UH60,What is the Weight of UH60?,"43090 kg (empty), 114259 kg (max)"
+UH60,What is the Dimensions of UH60?,"31 m length, 40 m wingspan"
+UH60,What is the Role of UH60?,Fighter
+UH60,What is the SurveillanceCapable of UH60?,No
+UH60,What is the NuclearCapable of UH60?,No
+UH60,What is the WeaponsPayload of UH60?,Torpedoes
+UH60,What is the TransportCapacity of UH60?,62 personnel or 31536 kg cargo
+UH60,What is the Operators of UH60?,"USA, UK"
+UH60,What is the CombatHistory of UH60?,No
+UH60,What is the NotableMissions of UH60?,UH60 participated in major operations.
+UH60,What is the ActiveService of UH60?,No
+UH60,What is the Comparison of UH60?,UH60 is often compared with F35.
+UH60,What is the BetterThan of UH60?,UH60 is better than older gen aircraft.
+UH60,What is the StealthCapable of UH60?,No
+UH60,What is the DifferenceFrom of UH60?,UH60 differs from Su34 in design and avionics.
+UH60,What is the MannedOrUnmanned of UH60?,Unmanned
+UH60,What is the InterestingFacts of UH60?,UH60 has unique stealth tech.
+UH60,What is the UniqueFeatures of UH60?,UH60 supports vertical takeoff or special radar systems.
+Z19,What is the Name of Z19?,Z19 Name
+Z19,What is the FullDesignation of Z19?,Z19 Full Designation
+Z19,What is the Manufacturer of Z19?,Chengdu
+Z19,What is the FirstIntroduced of Z19?,1995
+Z19,What is the CountryOfOrigin of Z19?,UK
+Z19,What is the MaxSpeed of Z19?,1892 km/h
+Z19,What is the Range of Z19?,3084 km
+Z19,What is the ServiceCeiling of Z19?,16321 m
+Z19,What is the EngineType of Z19?,Turbojet
+Z19,What is the Weight of Z19?,"36748 kg (empty), 100121 kg (max)"
+Z19,What is the Dimensions of Z19?,"23 m length, 35 m wingspan"
+Z19,What is the Role of Z19?,Bomber
+Z19,What is the SurveillanceCapable of Z19?,Yes
+Z19,What is the NuclearCapable of Z19?,Yes
+Z19,What is the WeaponsPayload of Z19?,Machine Guns
+Z19,What is the TransportCapacity of Z19?,6 personnel or 49562 kg cargo
+Z19,What is the Operators of Z19?,Global
+Z19,What is the CombatHistory of Z19?,Yes
+Z19,What is the NotableMissions of Z19?,Z19 participated in major operations.
+Z19,What is the ActiveService of Z19?,No
+Z19,What is the Comparison of Z19?,Z19 is often compared with F35.
+Z19,What is the BetterThan of Z19?,Z19 is better than older gen aircraft.
+Z19,What is the StealthCapable of Z19?,No
+Z19,What is the DifferenceFrom of Z19?,Z19 differs from Su34 in design and avionics.
+Z19,What is the MannedOrUnmanned of Z19?,Manned
+Z19,What is the InterestingFacts of Z19?,Z19 has unique stealth tech.
+Z19,What is the UniqueFeatures of Z19?,Z19 supports vertical takeoff or special radar systems.
+V280,What is the Name of V280?,V280 Name
+V280,What is the FullDesignation of V280?,V280 Full Designation
+V280,What is the Manufacturer of V280?,Lockheed Martin
+V280,What is the FirstIntroduced of V280?,1995
+V280,What is the CountryOfOrigin of V280?,China
+V280,What is the MaxSpeed of V280?,979 km/h
+V280,What is the Range of V280?,7640 km
+V280,What is the ServiceCeiling of V280?,12898 m
+V280,What is the EngineType of V280?,Turboprop
+V280,What is the Weight of V280?,"18825 kg (empty), 91432 kg (max)"
+V280,What is the Dimensions of V280?,"26 m length, 25 m wingspan"
+V280,What is the Role of V280?,Fighter
+V280,What is the SurveillanceCapable of V280?,No
+V280,What is the NuclearCapable of V280?,Yes
+V280,What is the WeaponsPayload of V280?,Missiles
+V280,What is the TransportCapacity of V280?,30 personnel or 23659 kg cargo
+V280,What is the Operators of V280?,"Russia, China"
+V280,What is the CombatHistory of V280?,No
+V280,What is the NotableMissions of V280?,V280 participated in major operations.
+V280,What is the ActiveService of V280?,Yes
+V280,What is the Comparison of V280?,V280 is often compared with F35.
+V280,What is the BetterThan of V280?,V280 is better than older gen aircraft.
+V280,What is the StealthCapable of V280?,No
+V280,What is the DifferenceFrom of V280?,V280 differs from Su34 in design and avionics.
+V280,What is the MannedOrUnmanned of V280?,Manned
+V280,What is the InterestingFacts of V280?,V280 has unique stealth tech.
+V280,What is the UniqueFeatures of V280?,V280 supports vertical takeoff or special radar systems.
+C5,What is the Name of C5?,C5 Name
+C5,What is the FullDesignation of C5?,C5 Full Designation
+C5,What is the Manufacturer of C5?,Dassault
+C5,What is the FirstIntroduced of C5?,2010
+C5,What is the CountryOfOrigin of C5?,USA
+C5,What is the MaxSpeed of C5?,2992 km/h
+C5,What is the Range of C5?,14397 km
+C5,What is the ServiceCeiling of C5?,21263 m
+C5,What is the EngineType of C5?,Turbojet
+C5,What is the Weight of C5?,"65463 kg (empty), 85707 kg (max)"
+C5,What is the Dimensions of C5?,"27 m length, 49 m wingspan"
+C5,What is the Role of C5?,Transport
+C5,What is the SurveillanceCapable of C5?,Yes
+C5,What is the NuclearCapable of C5?,No
+C5,What is the WeaponsPayload of C5?,Machine Guns
+C5,What is the TransportCapacity of C5?,97 personnel or 23696 kg cargo
+C5,What is the Operators of C5?,"USA, UK"
+C5,What is the CombatHistory of C5?,No
+C5,What is the NotableMissions of C5?,C5 participated in major operations.
+C5,What is the ActiveService of C5?,Yes
+C5,What is the Comparison of C5?,C5 is often compared with F35.
+C5,What is the BetterThan of C5?,C5 is better than older gen aircraft.
+C5,What is the StealthCapable of C5?,No
+C5,What is the DifferenceFrom of C5?,C5 differs from Su34 in design and avionics.
+C5,What is the MannedOrUnmanned of C5?,Manned
+C5,What is the InterestingFacts of C5?,C5 has unique stealth tech.
+C5,What is the UniqueFeatures of C5?,C5 supports vertical takeoff or special radar systems.
+JH7,What is the Name of JH7?,JH7 Name
+JH7,What is the FullDesignation of JH7?,JH7 Full Designation
+JH7,What is the Manufacturer of JH7?,Boeing
+JH7,What is the FirstIntroduced of JH7?,2005
+JH7,What is the CountryOfOrigin of JH7?,France
+JH7,What is the MaxSpeed of JH7?,1671 km/h
+JH7,What is the Range of JH7?,11835 km
+JH7,What is the ServiceCeiling of JH7?,14603 m
+JH7,What is the EngineType of JH7?,Turboprop
+JH7,What is the Weight of JH7?,"77159 kg (empty), 39401 kg (max)"
+JH7,What is the Dimensions of JH7?,"22 m length, 44 m wingspan"
+JH7,What is the Role of JH7?,Surveillance
+JH7,What is the SurveillanceCapable of JH7?,Yes
+JH7,What is the NuclearCapable of JH7?,Yes
+JH7,What is the WeaponsPayload of JH7?,Bombs
+JH7,What is the TransportCapacity of JH7?,19 personnel or 23374 kg cargo
+JH7,What is the Operators of JH7?,"USA, UK"
+JH7,What is the CombatHistory of JH7?,Yes
+JH7,What is the NotableMissions of JH7?,JH7 participated in major operations.
+JH7,What is the ActiveService of JH7?,Yes
+JH7,What is the Comparison of JH7?,JH7 is often compared with F35.
+JH7,What is the BetterThan of JH7?,JH7 is better than older gen aircraft.
+JH7,What is the StealthCapable of JH7?,No
+JH7,What is the DifferenceFrom of JH7?,JH7 differs from Su34 in design and avionics.
+JH7,What is the MannedOrUnmanned of JH7?,Unmanned
+JH7,What is the InterestingFacts of JH7?,JH7 has unique stealth tech.
+JH7,What is the UniqueFeatures of JH7?,JH7 supports vertical takeoff or special radar systems.
+F117,What is the Name of F117?,F117 Name
+F117,What is the FullDesignation of F117?,F117 Full Designation
+F117,What is the Manufacturer of F117?,Lockheed Martin
+F117,What is the FirstIntroduced of F117?,1980
+F117,What is the CountryOfOrigin of F117?,France
+F117,What is the MaxSpeed of F117?,2752 km/h
+F117,What is the Range of F117?,12269 km
+F117,What is the ServiceCeiling of F117?,21914 m
+F117,What is the EngineType of F117?,Turbofan
+F117,What is the Weight of F117?,"77275 kg (empty), 142180 kg (max)"
+F117,What is the Dimensions of F117?,"14 m length, 23 m wingspan"
+F117,What is the Role of F117?,Transport
+F117,What is the SurveillanceCapable of F117?,No
+F117,What is the NuclearCapable of F117?,No
+F117,What is the WeaponsPayload of F117?,Torpedoes
+F117,What is the TransportCapacity of F117?,65 personnel or 20961 kg cargo
+F117,What is the Operators of F117?,"Russia, China"
+F117,What is the CombatHistory of F117?,Yes
+F117,What is the NotableMissions of F117?,F117 participated in major operations.
+F117,What is the ActiveService of F117?,Yes
+F117,What is the Comparison of F117?,F117 is often compared with F35.
+F117,What is the BetterThan of F117?,F117 is better than older gen aircraft.
+F117,What is the StealthCapable of F117?,Yes
+F117,What is the DifferenceFrom of F117?,F117 differs from Su34 in design and avionics.
+F117,What is the MannedOrUnmanned of F117?,Unmanned
+F117,What is the InterestingFacts of F117?,F117 has unique stealth tech.
+F117,What is the UniqueFeatures of F117?,F117 supports vertical takeoff or special radar systems.
+V22,What is the Name of V22?,V22 Name
+V22,What is the FullDesignation of V22?,V22 Full Designation
+V22,What is the Manufacturer of V22?,Sukhoi
+V22,What is the FirstIntroduced of V22?,1995
+V22,What is the CountryOfOrigin of V22?,UK
+V22,What is the MaxSpeed of V22?,2102 km/h
+V22,What is the Range of V22?,12574 km
+V22,What is the ServiceCeiling of V22?,15614 m
+V22,What is the EngineType of V22?,Turboprop
+V22,What is the Weight of V22?,"72554 kg (empty), 79390 kg (max)"
+V22,What is the Dimensions of V22?,"33 m length, 26 m wingspan"
+V22,What is the Role of V22?,Fighter
+V22,What is the SurveillanceCapable of V22?,No
+V22,What is the NuclearCapable of V22?,Yes
+V22,What is the WeaponsPayload of V22?,Machine Guns
+V22,What is the TransportCapacity of V22?,63 personnel or 15405 kg cargo
+V22,What is the Operators of V22?,Global
+V22,What is the CombatHistory of V22?,Yes
+V22,What is the NotableMissions of V22?,V22 participated in major operations.
+V22,What is the ActiveService of V22?,Yes
+V22,What is the Comparison of V22?,V22 is often compared with F35.
+V22,What is the BetterThan of V22?,V22 is better than older gen aircraft.
+V22,What is the StealthCapable of V22?,Yes
+V22,What is the DifferenceFrom of V22?,V22 differs from Su34 in design and avionics.
+V22,What is the MannedOrUnmanned of V22?,Unmanned
+V22,What is the InterestingFacts of V22?,V22 has unique stealth tech.
+V22,What is the UniqueFeatures of V22?,V22 supports vertical takeoff or special radar systems.
+Tu95,What is the Name of Tu95?,Tu95 Name
+Tu95,What is the FullDesignation of Tu95?,Tu95 Full Designation
+Tu95,What is the Manufacturer of Tu95?,Sukhoi
+Tu95,What is the FirstIntroduced of Tu95?,1995
+Tu95,What is the CountryOfOrigin of Tu95?,USA
+Tu95,What is the MaxSpeed of Tu95?,2807 km/h
+Tu95,What is the Range of Tu95?,5502 km
+Tu95,What is the ServiceCeiling of Tu95?,12034 m
+Tu95,What is the EngineType of Tu95?,Turbofan
+Tu95,What is the Weight of Tu95?,"69988 kg (empty), 105788 kg (max)"
+Tu95,What is the Dimensions of Tu95?,"34 m length, 40 m wingspan"
+Tu95,What is the Role of Tu95?,Surveillance
+Tu95,What is the SurveillanceCapable of Tu95?,No
+Tu95,What is the NuclearCapable of Tu95?,No
+Tu95,What is the WeaponsPayload of Tu95?,Missiles
+Tu95,What is the TransportCapacity of Tu95?,73 personnel or 32231 kg cargo
+Tu95,What is the Operators of Tu95?,"France, Germany"
+Tu95,What is the CombatHistory of Tu95?,No
+Tu95,What is the NotableMissions of Tu95?,Tu95 participated in major operations.
+Tu95,What is the ActiveService of Tu95?,Yes
+Tu95,What is the Comparison of Tu95?,Tu95 is often compared with F35.
+Tu95,What is the BetterThan of Tu95?,Tu95 is better than older gen aircraft.
+Tu95,What is the StealthCapable of Tu95?,Yes
+Tu95,What is the DifferenceFrom of Tu95?,Tu95 differs from Su34 in design and avionics.
+Tu95,What is the MannedOrUnmanned of Tu95?,Unmanned
+Tu95,What is the InterestingFacts of Tu95?,Tu95 has unique stealth tech.
+Tu95,What is the UniqueFeatures of Tu95?,Tu95 supports vertical takeoff or special radar systems.
+Tu22M,What is the Name of Tu22M?,Tu22M Name
+Tu22M,What is the FullDesignation of Tu22M?,Tu22M Full Designation
+Tu22M,What is the Manufacturer of Tu22M?,Sukhoi
+Tu22M,What is the FirstIntroduced of Tu22M?,1980
+Tu22M,What is the CountryOfOrigin of Tu22M?,Russia
+Tu22M,What is the MaxSpeed of Tu22M?,1005 km/h
+Tu22M,What is the Range of Tu22M?,13977 km
+Tu22M,What is the ServiceCeiling of Tu22M?,18691 m
+Tu22M,What is the EngineType of Tu22M?,Rotary
+Tu22M,What is the Weight of Tu22M?,"65475 kg (empty), 146968 kg (max)"
+Tu22M,What is the Dimensions of Tu22M?,"30 m length, 36 m wingspan"
+Tu22M,What is the Role of Tu22M?,Fighter
+Tu22M,What is the SurveillanceCapable of Tu22M?,Yes
+Tu22M,What is the NuclearCapable of Tu22M?,Yes
+Tu22M,What is the WeaponsPayload of Tu22M?,Bombs
+Tu22M,What is the TransportCapacity of Tu22M?,2 personnel or 37566 kg cargo
+Tu22M,What is the Operators of Tu22M?,Global
+Tu22M,What is the CombatHistory of Tu22M?,No
+Tu22M,What is the NotableMissions of Tu22M?,Tu22M participated in major operations.
+Tu22M,What is the ActiveService of Tu22M?,Yes
+Tu22M,What is the Comparison of Tu22M?,Tu22M is often compared with F35.
+Tu22M,What is the BetterThan of Tu22M?,Tu22M is better than older gen aircraft.
+Tu22M,What is the StealthCapable of Tu22M?,Yes
+Tu22M,What is the DifferenceFrom of Tu22M?,Tu22M differs from Su34 in design and avionics.
+Tu22M,What is the MannedOrUnmanned of Tu22M?,Unmanned
+Tu22M,What is the InterestingFacts of Tu22M?,Tu22M has unique stealth tech.
+Tu22M,What is the UniqueFeatures of Tu22M?,Tu22M supports vertical takeoff or special radar systems.
+EF2000,What is the Name of EF2000?,EF2000 Name
+EF2000,What is the FullDesignation of EF2000?,EF2000 Full Designation
+EF2000,What is the Manufacturer of EF2000?,Boeing
+EF2000,What is the FirstIntroduced of EF2000?,2005
+EF2000,What is the CountryOfOrigin of EF2000?,France
+EF2000,What is the MaxSpeed of EF2000?,2754 km/h
+EF2000,What is the Range of EF2000?,12084 km
+EF2000,What is the ServiceCeiling of EF2000?,19973 m
+EF2000,What is the EngineType of EF2000?,Turbojet
+EF2000,What is the Weight of EF2000?,"77159 kg (empty), 137150 kg (max)"
+EF2000,What is the Dimensions of EF2000?,"40 m length, 29 m wingspan"
+EF2000,What is the Role of EF2000?,Bomber
+EF2000,What is the SurveillanceCapable of EF2000?,Yes
+EF2000,What is the NuclearCapable of EF2000?,No
+EF2000,What is the WeaponsPayload of EF2000?,Torpedoes
+EF2000,What is the TransportCapacity of EF2000?,30 personnel or 47388 kg cargo
+EF2000,What is the Operators of EF2000?,"France, Germany"
+EF2000,What is the CombatHistory of EF2000?,No
+EF2000,What is the NotableMissions of EF2000?,EF2000 participated in major operations.
+EF2000,What is the ActiveService of EF2000?,Yes
+EF2000,What is the Comparison of EF2000?,EF2000 is often compared with F35.
+EF2000,What is the BetterThan of EF2000?,EF2000 is better than older gen aircraft.
+EF2000,What is the StealthCapable of EF2000?,Yes
+EF2000,What is the DifferenceFrom of EF2000?,EF2000 differs from Su34 in design and avionics.
+EF2000,What is the MannedOrUnmanned of EF2000?,Unmanned
+EF2000,What is the InterestingFacts of EF2000?,EF2000 has unique stealth tech.
+EF2000,What is the UniqueFeatures of EF2000?,EF2000 supports vertical takeoff or special radar systems.
+F16,What is the Name of F16?,F16 Name
+F16,What is the FullDesignation of F16?,F16 Full Designation
+F16,What is the Manufacturer of F16?,Airbus
+F16,What is the FirstIntroduced of F16?,1995
+F16,What is the CountryOfOrigin of F16?,USA
+F16,What is the MaxSpeed of F16?,2191 km/h
+F16,What is the Range of F16?,12403 km
+F16,What is the ServiceCeiling of F16?,11549 m
+F16,What is the EngineType of F16?,Turbojet
+F16,What is the Weight of F16?,"71398 kg (empty), 139911 kg (max)"
+F16,What is the Dimensions of F16?,"13 m length, 28 m wingspan"
+F16,What is the Role of F16?,Bomber
+F16,What is the SurveillanceCapable of F16?,No
+F16,What is the NuclearCapable of F16?,Yes
+F16,What is the WeaponsPayload of F16?,Torpedoes
+F16,What is the TransportCapacity of F16?,63 personnel or 27445 kg cargo
+F16,What is the Operators of F16?,"USA, UK"
+F16,What is the CombatHistory of F16?,Yes
+F16,What is the NotableMissions of F16?,F16 participated in major operations.
+F16,What is the ActiveService of F16?,Yes
+F16,What is the Comparison of F16?,F16 is often compared with F35.
+F16,What is the BetterThan of F16?,F16 is better than older gen aircraft.
+F16,What is the StealthCapable of F16?,Yes
+F16,What is the DifferenceFrom of F16?,F16 differs from Su34 in design and avionics.
+F16,What is the MannedOrUnmanned of F16?,Unmanned
+F16,What is the InterestingFacts of F16?,F16 has unique stealth tech.
+F16,What is the UniqueFeatures of F16?,F16 supports vertical takeoff or special radar systems.
+AH64,What is the Name of AH64?,AH64 Name
+AH64,What is the FullDesignation of AH64?,AH64 Full Designation
+AH64,What is the Manufacturer of AH64?,Airbus
+AH64,What is the FirstIntroduced of AH64?,2010
+AH64,What is the CountryOfOrigin of AH64?,USA
+AH64,What is the MaxSpeed of AH64?,1323 km/h
+AH64,What is the Range of AH64?,12826 km
+AH64,What is the ServiceCeiling of AH64?,15870 m
+AH64,What is the EngineType of AH64?,Rotary
+AH64,What is the Weight of AH64?,"69926 kg (empty), 90776 kg (max)"
+AH64,What is the Dimensions of AH64?,"11 m length, 51 m wingspan"
+AH64,What is the Role of AH64?,Transport
+AH64,What is the SurveillanceCapable of AH64?,Yes
+AH64,What is the NuclearCapable of AH64?,Yes
+AH64,What is the WeaponsPayload of AH64?,Bombs
+AH64,What is the TransportCapacity of AH64?,54 personnel or 22737 kg cargo
+AH64,What is the Operators of AH64?,Global
+AH64,What is the CombatHistory of AH64?,No
+AH64,What is the NotableMissions of AH64?,AH64 participated in major operations.
+AH64,What is the ActiveService of AH64?,No
+AH64,What is the Comparison of AH64?,AH64 is often compared with F35.
+AH64,What is the BetterThan of AH64?,AH64 is better than older gen aircraft.
+AH64,What is the StealthCapable of AH64?,Yes
+AH64,What is the DifferenceFrom of AH64?,AH64 differs from Su34 in design and avionics.
+AH64,What is the MannedOrUnmanned of AH64?,Unmanned
+AH64,What is the InterestingFacts of AH64?,AH64 has unique stealth tech.
+AH64,What is the UniqueFeatures of AH64?,AH64 supports vertical takeoff or special radar systems.
+C17,What is the Name of C17?,C17 Name
+C17,What is the FullDesignation of C17?,C17 Full Designation
+C17,What is the Manufacturer of C17?,Airbus
+C17,What is the FirstIntroduced of C17?,1995
+C17,What is the CountryOfOrigin of C17?,France
+C17,What is the MaxSpeed of C17?,1421 km/h
+C17,What is the Range of C17?,4496 km
+C17,What is the ServiceCeiling of C17?,13539 m
+C17,What is the EngineType of C17?,Turboprop
+C17,What is the Weight of C17?,"45076 kg (empty), 138809 kg (max)"
+C17,What is the Dimensions of C17?,"26 m length, 49 m wingspan"
+C17,What is the Role of C17?,Surveillance
+C17,What is the SurveillanceCapable of C17?,No
+C17,What is the NuclearCapable of C17?,No
+C17,What is the WeaponsPayload of C17?,Torpedoes
+C17,What is the TransportCapacity of C17?,55 personnel or 29099 kg cargo
+C17,What is the Operators of C17?,"USA, UK"
+C17,What is the CombatHistory of C17?,Yes
+C17,What is the NotableMissions of C17?,C17 participated in major operations.
+C17,What is the ActiveService of C17?,Yes
+C17,What is the Comparison of C17?,C17 is often compared with F35.
+C17,What is the BetterThan of C17?,C17 is better than older gen aircraft.
+C17,What is the StealthCapable of C17?,No
+C17,What is the DifferenceFrom of C17?,C17 differs from Su34 in design and avionics.
+C17,What is the MannedOrUnmanned of C17?,Unmanned
+C17,What is the InterestingFacts of C17?,C17 has unique stealth tech.
+C17,What is the UniqueFeatures of C17?,C17 supports vertical takeoff or special radar systems.
+Su24,What is the Name of Su24?,Su24 Name
+Su24,What is the FullDesignation of Su24?,Su24 Full Designation
+Su24,What is the Manufacturer of Su24?,Lockheed Martin
+Su24,What is the FirstIntroduced of Su24?,2010
+Su24,What is the CountryOfOrigin of Su24?,China
+Su24,What is the MaxSpeed of Su24?,2946 km/h
+Su24,What is the Range of Su24?,13168 km
+Su24,What is the ServiceCeiling of Su24?,13473 m
+Su24,What is the EngineType of Su24?,Turbojet
+Su24,What is the Weight of Su24?,"47813 kg (empty), 31827 kg (max)"
+Su24,What is the Dimensions of Su24?,"29 m length, 39 m wingspan"
+Su24,What is the Role of Su24?,Fighter
+Su24,What is the SurveillanceCapable of Su24?,No
+Su24,What is the NuclearCapable of Su24?,Yes
+Su24,What is the WeaponsPayload of Su24?,Machine Guns
+Su24,What is the TransportCapacity of Su24?,36 personnel or 34000 kg cargo
+Su24,What is the Operators of Su24?,"USA, UK"
+Su24,What is the CombatHistory of Su24?,No
+Su24,What is the NotableMissions of Su24?,Su24 participated in major operations.
+Su24,What is the ActiveService of Su24?,Yes
+Su24,What is the Comparison of Su24?,Su24 is often compared with F35.
+Su24,What is the BetterThan of Su24?,Su24 is better than older gen aircraft.
+Su24,What is the StealthCapable of Su24?,No
+Su24,What is the DifferenceFrom of Su24?,Su24 differs from Su34 in design and avionics.
+Su24,What is the MannedOrUnmanned of Su24?,Unmanned
+Su24,What is the InterestingFacts of Su24?,Su24 has unique stealth tech.
+Su24,What is the UniqueFeatures of Su24?,Su24 supports vertical takeoff or special radar systems.
+TB001,What is the Name of TB001?,TB001 Name
+TB001,What is the FullDesignation of TB001?,TB001 Full Designation
+TB001,What is the Manufacturer of TB001?,Boeing
+TB001,What is the FirstIntroduced of TB001?,1995
+TB001,What is the CountryOfOrigin of TB001?,China
+TB001,What is the MaxSpeed of TB001?,2091 km/h
+TB001,What is the Range of TB001?,2816 km
+TB001,What is the ServiceCeiling of TB001?,19736 m
+TB001,What is the EngineType of TB001?,Rotary
+TB001,What is the Weight of TB001?,"19101 kg (empty), 82597 kg (max)"
+TB001,What is the Dimensions of TB001?,"11 m length, 21 m wingspan"
+TB001,What is the Role of TB001?,Transport
+TB001,What is the SurveillanceCapable of TB001?,Yes
+TB001,What is the NuclearCapable of TB001?,No
+TB001,What is the WeaponsPayload of TB001?,Missiles
+TB001,What is the TransportCapacity of TB001?,16 personnel or 32970 kg cargo
+TB001,What is the Operators of TB001?,"France, Germany"
+TB001,What is the CombatHistory of TB001?,Yes
+TB001,What is the NotableMissions of TB001?,TB001 participated in major operations.
+TB001,What is the ActiveService of TB001?,No
+TB001,What is the Comparison of TB001?,TB001 is often compared with F35.
+TB001,What is the BetterThan of TB001?,TB001 is better than older gen aircraft.
+TB001,What is the StealthCapable of TB001?,No
+TB001,What is the DifferenceFrom of TB001?,TB001 differs from Su34 in design and avionics.
+TB001,What is the MannedOrUnmanned of TB001?,Unmanned
+TB001,What is the InterestingFacts of TB001?,TB001 has unique stealth tech.
+TB001,What is the UniqueFeatures of TB001?,TB001 supports vertical takeoff or special radar systems.
+XB70,What is the Name of XB70?,XB70 Name
+XB70,What is the FullDesignation of XB70?,XB70 Full Designation
+XB70,What is the Manufacturer of XB70?,Airbus
+XB70,What is the FirstIntroduced of XB70?,2005
+XB70,What is the CountryOfOrigin of XB70?,China
+XB70,What is the MaxSpeed of XB70?,1425 km/h
+XB70,What is the Range of XB70?,9538 km
+XB70,What is the ServiceCeiling of XB70?,18619 m
+XB70,What is the EngineType of XB70?,Turboprop
+XB70,What is the Weight of XB70?,"76092 kg (empty), 46019 kg (max)"
+XB70,What is the Dimensions of XB70?,"36 m length, 23 m wingspan"
+XB70,What is the Role of XB70?,Surveillance
+XB70,What is the SurveillanceCapable of XB70?,Yes
+XB70,What is the NuclearCapable of XB70?,No
+XB70,What is the WeaponsPayload of XB70?,Missiles
+XB70,What is the TransportCapacity of XB70?,44 personnel or 12112 kg cargo
+XB70,What is the Operators of XB70?,Global
+XB70,What is the CombatHistory of XB70?,No
+XB70,What is the NotableMissions of XB70?,XB70 participated in major operations.
+XB70,What is the ActiveService of XB70?,Yes
+XB70,What is the Comparison of XB70?,XB70 is often compared with F35.
+XB70,What is the BetterThan of XB70?,XB70 is better than older gen aircraft.
+XB70,What is the StealthCapable of XB70?,Yes
+XB70,What is the DifferenceFrom of XB70?,XB70 differs from Su34 in design and avionics.
+XB70,What is the MannedOrUnmanned of XB70?,Unmanned
+XB70,What is the InterestingFacts of XB70?,XB70 has unique stealth tech.
+XB70,What is the UniqueFeatures of XB70?,XB70 supports vertical takeoff or special radar systems.
+J35,What is the Name of J35?,J35 Name
+J35,What is the FullDesignation of J35?,J35 Full Designation
+J35,What is the Manufacturer of J35?,Dassault
+J35,What is the FirstIntroduced of J35?,1980
+J35,What is the CountryOfOrigin of J35?,UK
+J35,What is the MaxSpeed of J35?,2175 km/h
+J35,What is the Range of J35?,10563 km
+J35,What is the ServiceCeiling of J35?,15138 m
+J35,What is the EngineType of J35?,Turbofan
+J35,What is the Weight of J35?,"27292 kg (empty), 121693 kg (max)"
+J35,What is the Dimensions of J35?,"21 m length, 43 m wingspan"
+J35,What is the Role of J35?,Reconnaissance
+J35,What is the SurveillanceCapable of J35?,Yes
+J35,What is the NuclearCapable of J35?,No
+J35,What is the WeaponsPayload of J35?,Missiles
+J35,What is the TransportCapacity of J35?,19 personnel or 18342 kg cargo
+J35,What is the Operators of J35?,"USA, UK"
+J35,What is the CombatHistory of J35?,Yes
+J35,What is the NotableMissions of J35?,J35 participated in major operations.
+J35,What is the ActiveService of J35?,No
+J35,What is the Comparison of J35?,J35 is often compared with F35.
+J35,What is the BetterThan of J35?,J35 is better than older gen aircraft.
+J35,What is the StealthCapable of J35?,No
+J35,What is the DifferenceFrom of J35?,J35 differs from Su34 in design and avionics.
+J35,What is the MannedOrUnmanned of J35?,Unmanned
+J35,What is the InterestingFacts of J35?,J35 has unique stealth tech.
+J35,What is the UniqueFeatures of J35?,J35 supports vertical takeoff or special radar systems.
+JAS39,What is the Name of JAS39?,JAS39 Name
+JAS39,What is the FullDesignation of JAS39?,JAS39 Full Designation
+JAS39,What is the Manufacturer of JAS39?,Airbus
+JAS39,What is the FirstIntroduced of JAS39?,1995
+JAS39,What is the CountryOfOrigin of JAS39?,UK
+JAS39,What is the MaxSpeed of JAS39?,2937 km/h
+JAS39,What is the Range of JAS39?,12906 km
+JAS39,What is the ServiceCeiling of JAS39?,17535 m
+JAS39,What is the EngineType of JAS39?,Rotary
+JAS39,What is the Weight of JAS39?,"25617 kg (empty), 97989 kg (max)"
+JAS39,What is the Dimensions of JAS39?,"36 m length, 21 m wingspan"
+JAS39,What is the Role of JAS39?,Fighter
+JAS39,What is the SurveillanceCapable of JAS39?,Yes
+JAS39,What is the NuclearCapable of JAS39?,No
+JAS39,What is the WeaponsPayload of JAS39?,Missiles
+JAS39,What is the TransportCapacity of JAS39?,11 personnel or 19336 kg cargo
+JAS39,What is the Operators of JAS39?,"France, Germany"
+JAS39,What is the CombatHistory of JAS39?,Yes
+JAS39,What is the NotableMissions of JAS39?,JAS39 participated in major operations.
+JAS39,What is the ActiveService of JAS39?,No
+JAS39,What is the Comparison of JAS39?,JAS39 is often compared with F35.
+JAS39,What is the BetterThan of JAS39?,JAS39 is better than older gen aircraft.
+JAS39,What is the StealthCapable of JAS39?,Yes
+JAS39,What is the DifferenceFrom of JAS39?,JAS39 differs from Su34 in design and avionics.
+JAS39,What is the MannedOrUnmanned of JAS39?,Manned
+JAS39,What is the InterestingFacts of JAS39?,JAS39 has unique stealth tech.
+JAS39,What is the UniqueFeatures of JAS39?,JAS39 supports vertical takeoff or special radar systems.
+SR71,What is the Name of SR71?,SR71 Name
+SR71,What is the FullDesignation of SR71?,SR71 Full Designation
+SR71,What is the Manufacturer of SR71?,Boeing
+SR71,What is the FirstIntroduced of SR71?,1995
+SR71,What is the CountryOfOrigin of SR71?,France
+SR71,What is the MaxSpeed of SR71?,1836 km/h
+SR71,What is the Range of SR71?,10874 km
+SR71,What is the ServiceCeiling of SR71?,24798 m
+SR71,What is the EngineType of SR71?,Rotary
+SR71,What is the Weight of SR71?,"51266 kg (empty), 70833 kg (max)"
+SR71,What is the Dimensions of SR71?,"23 m length, 54 m wingspan"
+SR71,What is the Role of SR71?,Surveillance
+SR71,What is the SurveillanceCapable of SR71?,Yes
+SR71,What is the NuclearCapable of SR71?,No
+SR71,What is the WeaponsPayload of SR71?,Torpedoes
+SR71,What is the TransportCapacity of SR71?,13 personnel or 20325 kg cargo
+SR71,What is the Operators of SR71?,"USA, UK"
+SR71,What is the CombatHistory of SR71?,No
+SR71,What is the NotableMissions of SR71?,SR71 participated in major operations.
+SR71,What is the ActiveService of SR71?,No
+SR71,What is the Comparison of SR71?,SR71 is often compared with F35.
+SR71,What is the BetterThan of SR71?,SR71 is better than older gen aircraft.
+SR71,What is the StealthCapable of SR71?,No
+SR71,What is the DifferenceFrom of SR71?,SR71 differs from Su34 in design and avionics.
+SR71,What is the MannedOrUnmanned of SR71?,Manned
+SR71,What is the InterestingFacts of SR71?,SR71 has unique stealth tech.
+SR71,What is the UniqueFeatures of SR71?,SR71 supports vertical takeoff or special radar systems.
+Mi28,What is the Name of Mi28?,Mi28 Name
+Mi28,What is the FullDesignation of Mi28?,Mi28 Full Designation
+Mi28,What is the Manufacturer of Mi28?,Boeing
+Mi28,What is the FirstIntroduced of Mi28?,1995
+Mi28,What is the CountryOfOrigin of Mi28?,France
+Mi28,What is the MaxSpeed of Mi28?,2677 km/h
+Mi28,What is the Range of Mi28?,6828 km
+Mi28,What is the ServiceCeiling of Mi28?,19359 m
+Mi28,What is the EngineType of Mi28?,Turbojet
+Mi28,What is the Weight of Mi28?,"37936 kg (empty), 30995 kg (max)"
+Mi28,What is the Dimensions of Mi28?,"29 m length, 26 m wingspan"
+Mi28,What is the Role of Mi28?,Surveillance
+Mi28,What is the SurveillanceCapable of Mi28?,No
+Mi28,What is the NuclearCapable of Mi28?,No
+Mi28,What is the WeaponsPayload of Mi28?,Machine Guns
+Mi28,What is the TransportCapacity of Mi28?,32 personnel or 19909 kg cargo
+Mi28,What is the Operators of Mi28?,"Russia, China"
+Mi28,What is the CombatHistory of Mi28?,No
+Mi28,What is the NotableMissions of Mi28?,Mi28 participated in major operations.
+Mi28,What is the ActiveService of Mi28?,No
+Mi28,What is the Comparison of Mi28?,Mi28 is often compared with F35.
+Mi28,What is the BetterThan of Mi28?,Mi28 is better than older gen aircraft.
+Mi28,What is the StealthCapable of Mi28?,Yes
+Mi28,What is the DifferenceFrom of Mi28?,Mi28 differs from Su34 in design and avionics.
+Mi28,What is the MannedOrUnmanned of Mi28?,Unmanned
+Mi28,What is the InterestingFacts of Mi28?,Mi28 has unique stealth tech.
+Mi28,What is the UniqueFeatures of Mi28?,Mi28 supports vertical takeoff or special radar systems.
+US2,What is the Name of US2?,US2 Name
+US2,What is the FullDesignation of US2?,US2 Full Designation
+US2,What is the Manufacturer of US2?,Airbus
+US2,What is the FirstIntroduced of US2?,1980
+US2,What is the CountryOfOrigin of US2?,France
+US2,What is the MaxSpeed of US2?,2225 km/h
+US2,What is the Range of US2?,5171 km
+US2,What is the ServiceCeiling of US2?,20821 m
+US2,What is the EngineType of US2?,Turboprop
+US2,What is the Weight of US2?,"17525 kg (empty), 72600 kg (max)"
+US2,What is the Dimensions of US2?,"13 m length, 55 m wingspan"
+US2,What is the Role of US2?,Fighter
+US2,What is the SurveillanceCapable of US2?,Yes
+US2,What is the NuclearCapable of US2?,Yes
+US2,What is the WeaponsPayload of US2?,Machine Guns
+US2,What is the TransportCapacity of US2?,34 personnel or 10322 kg cargo
+US2,What is the Operators of US2?,"Russia, China"
+US2,What is the CombatHistory of US2?,No
+US2,What is the NotableMissions of US2?,US2 participated in major operations.
+US2,What is the ActiveService of US2?,No
+US2,What is the Comparison of US2?,US2 is often compared with F35.
+US2,What is the BetterThan of US2?,US2 is better than older gen aircraft.
+US2,What is the StealthCapable of US2?,No
+US2,What is the DifferenceFrom of US2?,US2 differs from Su34 in design and avionics.
+US2,What is the MannedOrUnmanned of US2?,Manned
+US2,What is the InterestingFacts of US2?,US2 has unique stealth tech.
+US2,What is the UniqueFeatures of US2?,US2 supports vertical takeoff or special radar systems.
+YF23,What is the Name of YF23?,YF23 Name
+YF23,What is the FullDesignation of YF23?,YF23 Full Designation
+YF23,What is the Manufacturer of YF23?,Lockheed Martin
+YF23,What is the FirstIntroduced of YF23?,2010
+YF23,What is the CountryOfOrigin of YF23?,France
+YF23,What is the MaxSpeed of YF23?,1588 km/h
+YF23,What is the Range of YF23?,13920 km
+YF23,What is the ServiceCeiling of YF23?,18128 m
+YF23,What is the EngineType of YF23?,Turbojet
+YF23,What is the Weight of YF23?,"11817 kg (empty), 117228 kg (max)"
+YF23,What is the Dimensions of YF23?,"23 m length, 21 m wingspan"
+YF23,What is the Role of YF23?,Bomber
+YF23,What is the SurveillanceCapable of YF23?,No
+YF23,What is the NuclearCapable of YF23?,Yes
+YF23,What is the WeaponsPayload of YF23?,Machine Guns
+YF23,What is the TransportCapacity of YF23?,32 personnel or 46764 kg cargo
+YF23,What is the Operators of YF23?,Global
+YF23,What is the CombatHistory of YF23?,No
+YF23,What is the NotableMissions of YF23?,YF23 participated in major operations.
+YF23,What is the ActiveService of YF23?,Yes
+YF23,What is the Comparison of YF23?,YF23 is often compared with F35.
+YF23,What is the BetterThan of YF23?,YF23 is better than older gen aircraft.
+YF23,What is the StealthCapable of YF23?,Yes
+YF23,What is the DifferenceFrom of YF23?,YF23 differs from Su34 in design and avionics.
+YF23,What is the MannedOrUnmanned of YF23?,Manned
+YF23,What is the InterestingFacts of YF23?,YF23 has unique stealth tech.
+YF23,What is the UniqueFeatures of YF23?,YF23 supports vertical takeoff or special radar systems.
+An72,What is the Name of An72?,An72 Name
+An72,What is the FullDesignation of An72?,An72 Full Designation
+An72,What is the Manufacturer of An72?,Chengdu
+An72,What is the FirstIntroduced of An72?,2010
+An72,What is the CountryOfOrigin of An72?,USA
+An72,What is the MaxSpeed of An72?,1423 km/h
+An72,What is the Range of An72?,9118 km
+An72,What is the ServiceCeiling of An72?,24860 m
+An72,What is the EngineType of An72?,Turbofan
+An72,What is the Weight of An72?,"33232 kg (empty), 100816 kg (max)"
+An72,What is the Dimensions of An72?,"26 m length, 45 m wingspan"
+An72,What is the Role of An72?,Bomber
+An72,What is the SurveillanceCapable of An72?,No
+An72,What is the NuclearCapable of An72?,Yes
+An72,What is the WeaponsPayload of An72?,Torpedoes
+An72,What is the TransportCapacity of An72?,1 personnel or 18592 kg cargo
+An72,What is the Operators of An72?,"France, Germany"
+An72,What is the CombatHistory of An72?,No
+An72,What is the NotableMissions of An72?,An72 participated in major operations.
+An72,What is the ActiveService of An72?,Yes
+An72,What is the Comparison of An72?,An72 is often compared with F35.
+An72,What is the BetterThan of An72?,An72 is better than older gen aircraft.
+An72,What is the StealthCapable of An72?,Yes
+An72,What is the DifferenceFrom of An72?,An72 differs from Su34 in design and avionics.
+An72,What is the MannedOrUnmanned of An72?,Unmanned
+An72,What is the InterestingFacts of An72?,An72 has unique stealth tech.
+An72,What is the UniqueFeatures of An72?,An72 supports vertical takeoff or special radar systems.
+MQ9,What is the Name of MQ9?,MQ9 Name
+MQ9,What is the FullDesignation of MQ9?,MQ9 Full Designation
+MQ9,What is the Manufacturer of MQ9?,Sukhoi
+MQ9,What is the FirstIntroduced of MQ9?,1980
+MQ9,What is the CountryOfOrigin of MQ9?,China
+MQ9,What is the MaxSpeed of MQ9?,1554 km/h
+MQ9,What is the Range of MQ9?,4289 km
+MQ9,What is the ServiceCeiling of MQ9?,11944 m
+MQ9,What is the EngineType of MQ9?,Turboprop
+MQ9,What is the Weight of MQ9?,"45519 kg (empty), 76478 kg (max)"
+MQ9,What is the Dimensions of MQ9?,"29 m length, 21 m wingspan"
+MQ9,What is the Role of MQ9?,Bomber
+MQ9,What is the SurveillanceCapable of MQ9?,No
+MQ9,What is the NuclearCapable of MQ9?,No
+MQ9,What is the WeaponsPayload of MQ9?,Machine Guns
+MQ9,What is the TransportCapacity of MQ9?,36 personnel or 19595 kg cargo
+MQ9,What is the Operators of MQ9?,"France, Germany"
+MQ9,What is the CombatHistory of MQ9?,No
+MQ9,What is the NotableMissions of MQ9?,MQ9 participated in major operations.
+MQ9,What is the ActiveService of MQ9?,Yes
+MQ9,What is the Comparison of MQ9?,MQ9 is often compared with F35.
+MQ9,What is the BetterThan of MQ9?,MQ9 is better than older gen aircraft.
+MQ9,What is the StealthCapable of MQ9?,No
+MQ9,What is the DifferenceFrom of MQ9?,MQ9 differs from Su34 in design and avionics.
+MQ9,What is the MannedOrUnmanned of MQ9?,Manned
+MQ9,What is the InterestingFacts of MQ9?,MQ9 has unique stealth tech.
+MQ9,What is the UniqueFeatures of MQ9?,MQ9 supports vertical takeoff or special radar systems.
+J20,What is the Name of J20?,J20 Name
+J20,What is the FullDesignation of J20?,J20 Full Designation
+J20,What is the Manufacturer of J20?,Airbus
+J20,What is the FirstIntroduced of J20?,1995
+J20,What is the CountryOfOrigin of J20?,UK
+J20,What is the MaxSpeed of J20?,1005 km/h
+J20,What is the Range of J20?,11064 km
+J20,What is the ServiceCeiling of J20?,10353 m
+J20,What is the EngineType of J20?,Turbojet
+J20,What is the Weight of J20?,"12840 kg (empty), 122218 kg (max)"
+J20,What is the Dimensions of J20?,"29 m length, 53 m wingspan"
+J20,What is the Role of J20?,Reconnaissance
+J20,What is the SurveillanceCapable of J20?,No
+J20,What is the NuclearCapable of J20?,Yes
+J20,What is the WeaponsPayload of J20?,Machine Guns
+J20,What is the TransportCapacity of J20?,83 personnel or 46075 kg cargo
+J20,What is the Operators of J20?,"USA, UK"
+J20,What is the CombatHistory of J20?,Yes
+J20,What is the NotableMissions of J20?,J20 participated in major operations.
+J20,What is the ActiveService of J20?,No
+J20,What is the Comparison of J20?,J20 is often compared with F35.
+J20,What is the BetterThan of J20?,J20 is better than older gen aircraft.
+J20,What is the StealthCapable of J20?,Yes
+J20,What is the DifferenceFrom of J20?,J20 differs from Su34 in design and avionics.
+J20,What is the MannedOrUnmanned of J20?,Manned
+J20,What is the InterestingFacts of J20?,J20 has unique stealth tech.
+J20,What is the UniqueFeatures of J20?,J20 supports vertical takeoff or special radar systems.
+An22,What is the Name of An22?,An22 Name
+An22,What is the FullDesignation of An22?,An22 Full Designation
+An22,What is the Manufacturer of An22?,Boeing
+An22,What is the FirstIntroduced of An22?,2005
+An22,What is the CountryOfOrigin of An22?,USA
+An22,What is the MaxSpeed of An22?,2179 km/h
+An22,What is the Range of An22?,9700 km
+An22,What is the ServiceCeiling of An22?,10305 m
+An22,What is the EngineType of An22?,Turbojet
+An22,What is the Weight of An22?,"42691 kg (empty), 105739 kg (max)"
+An22,What is the Dimensions of An22?,"40 m length, 42 m wingspan"
+An22,What is the Role of An22?,Surveillance
+An22,What is the SurveillanceCapable of An22?,Yes
+An22,What is the NuclearCapable of An22?,Yes
+An22,What is the WeaponsPayload of An22?,Missiles
+An22,What is the TransportCapacity of An22?,71 personnel or 37204 kg cargo
+An22,What is the Operators of An22?,"USA, UK"
+An22,What is the CombatHistory of An22?,Yes
+An22,What is the NotableMissions of An22?,An22 participated in major operations.
+An22,What is the ActiveService of An22?,No
+An22,What is the Comparison of An22?,An22 is often compared with F35.
+An22,What is the BetterThan of An22?,An22 is better than older gen aircraft.
+An22,What is the StealthCapable of An22?,No
+An22,What is the DifferenceFrom of An22?,An22 differs from Su34 in design and avionics.
+An22,What is the MannedOrUnmanned of An22?,Manned
+An22,What is the InterestingFacts of An22?,An22 has unique stealth tech.
+An22,What is the UniqueFeatures of An22?,An22 supports vertical takeoff or special radar systems.
+B21,What is the Name of B21?,B21 Name
+B21,What is the FullDesignation of B21?,B21 Full Designation
+B21,What is the Manufacturer of B21?,Dassault
+B21,What is the FirstIntroduced of B21?,1980
+B21,What is the CountryOfOrigin of B21?,UK
+B21,What is the MaxSpeed of B21?,1313 km/h
+B21,What is the Range of B21?,5294 km
+B21,What is the ServiceCeiling of B21?,21505 m
+B21,What is the EngineType of B21?,Turbojet
+B21,What is the Weight of B21?,"47572 kg (empty), 120717 kg (max)"
+B21,What is the Dimensions of B21?,"27 m length, 19 m wingspan"
+B21,What is the Role of B21?,Reconnaissance
+B21,What is the SurveillanceCapable of B21?,Yes
+B21,What is the NuclearCapable of B21?,No
+B21,What is the WeaponsPayload of B21?,Machine Guns
+B21,What is the TransportCapacity of B21?,76 personnel or 41634 kg cargo
+B21,What is the Operators of B21?,"France, Germany"
+B21,What is the CombatHistory of B21?,No
+B21,What is the NotableMissions of B21?,B21 participated in major operations.
+B21,What is the ActiveService of B21?,Yes
+B21,What is the Comparison of B21?,B21 is often compared with F35.
+B21,What is the BetterThan of B21?,B21 is better than older gen aircraft.
+B21,What is the StealthCapable of B21?,No
+B21,What is the DifferenceFrom of B21?,B21 differs from Su34 in design and avionics.
+B21,What is the MannedOrUnmanned of B21?,Unmanned
+B21,What is the InterestingFacts of B21?,B21 has unique stealth tech.
+B21,What is the UniqueFeatures of B21?,B21 supports vertical takeoff or special radar systems.
+E2,What is the Name of E2?,E2 Name
+E2,What is the FullDesignation of E2?,E2 Full Designation
+E2,What is the Manufacturer of E2?,Sukhoi
+E2,What is the FirstIntroduced of E2?,2020
+E2,What is the CountryOfOrigin of E2?,France
+E2,What is the MaxSpeed of E2?,2441 km/h
+E2,What is the Range of E2?,11467 km
+E2,What is the ServiceCeiling of E2?,16170 m
+E2,What is the EngineType of E2?,Rotary
+E2,What is the Weight of E2?,"29481 kg (empty), 48056 kg (max)"
+E2,What is the Dimensions of E2?,"36 m length, 51 m wingspan"
+E2,What is the Role of E2?,Reconnaissance
+E2,What is the SurveillanceCapable of E2?,Yes
+E2,What is the NuclearCapable of E2?,No
+E2,What is the WeaponsPayload of E2?,Torpedoes
+E2,What is the TransportCapacity of E2?,39 personnel or 31411 kg cargo
+E2,What is the Operators of E2?,"France, Germany"
+E2,What is the CombatHistory of E2?,Yes
+E2,What is the NotableMissions of E2?,E2 participated in major operations.
+E2,What is the ActiveService of E2?,Yes
+E2,What is the Comparison of E2?,E2 is often compared with F35.
+E2,What is the BetterThan of E2?,E2 is better than older gen aircraft.
+E2,What is the StealthCapable of E2?,Yes
+E2,What is the DifferenceFrom of E2?,E2 differs from Su34 in design and avionics.
+E2,What is the MannedOrUnmanned of E2?,Unmanned
+E2,What is the InterestingFacts of E2?,E2 has unique stealth tech.
+E2,What is the UniqueFeatures of E2?,E2 supports vertical takeoff or special radar systems.
+C390,What is the Name of C390?,C390 Name
+C390,What is the FullDesignation of C390?,C390 Full Designation
+C390,What is the Manufacturer of C390?,Boeing
+C390,What is the FirstIntroduced of C390?,1995
+C390,What is the CountryOfOrigin of C390?,USA
+C390,What is the MaxSpeed of C390?,1297 km/h
+C390,What is the Range of C390?,10549 km
+C390,What is the ServiceCeiling of C390?,20002 m
+C390,What is the EngineType of C390?,Turbojet
+C390,What is the Weight of C390?,"64692 kg (empty), 139569 kg (max)"
+C390,What is the Dimensions of C390?,"20 m length, 53 m wingspan"
+C390,What is the Role of C390?,Reconnaissance
+C390,What is the SurveillanceCapable of C390?,Yes
+C390,What is the NuclearCapable of C390?,Yes
+C390,What is the WeaponsPayload of C390?,Bombs
+C390,What is the TransportCapacity of C390?,28 personnel or 34003 kg cargo
+C390,What is the Operators of C390?,"USA, UK"
+C390,What is the CombatHistory of C390?,Yes
+C390,What is the NotableMissions of C390?,C390 participated in major operations.
+C390,What is the ActiveService of C390?,Yes
+C390,What is the Comparison of C390?,C390 is often compared with F35.
+C390,What is the BetterThan of C390?,C390 is better than older gen aircraft.
+C390,What is the StealthCapable of C390?,No
+C390,What is the DifferenceFrom of C390?,C390 differs from Su34 in design and avionics.
+C390,What is the MannedOrUnmanned of C390?,Manned
+C390,What is the InterestingFacts of C390?,C390 has unique stealth tech.
+C390,What is the UniqueFeatures of C390?,C390 supports vertical takeoff or special radar systems.
+H6,What is the Name of H6?,H6 Name
+H6,What is the FullDesignation of H6?,H6 Full Designation
+H6,What is the Manufacturer of H6?,Lockheed Martin
+H6,What is the FirstIntroduced of H6?,2010
+H6,What is the CountryOfOrigin of H6?,USA
+H6,What is the MaxSpeed of H6?,2094 km/h
+H6,What is the Range of H6?,6972 km
+H6,What is the ServiceCeiling of H6?,19507 m
+H6,What is the EngineType of H6?,Rotary
+H6,What is the Weight of H6?,"43875 kg (empty), 111266 kg (max)"
+H6,What is the Dimensions of H6?,"37 m length, 21 m wingspan"
+H6,What is the Role of H6?,Transport
+H6,What is the SurveillanceCapable of H6?,No
+H6,What is the NuclearCapable of H6?,No
+H6,What is the WeaponsPayload of H6?,Missiles
+H6,What is the TransportCapacity of H6?,41 personnel or 19302 kg cargo
+H6,What is the Operators of H6?,"USA, UK"
+H6,What is the CombatHistory of H6?,Yes
+H6,What is the NotableMissions of H6?,H6 participated in major operations.
+H6,What is the ActiveService of H6?,Yes
+H6,What is the Comparison of H6?,H6 is often compared with F35.
+H6,What is the BetterThan of H6?,H6 is better than older gen aircraft.
+H6,What is the StealthCapable of H6?,Yes
+H6,What is the DifferenceFrom of H6?,H6 differs from Su34 in design and avionics.
+H6,What is the MannedOrUnmanned of H6?,Manned
+H6,What is the InterestingFacts of H6?,H6 has unique stealth tech.
+H6,What is the UniqueFeatures of H6?,H6 supports vertical takeoff or special radar systems.
+Su57,What is the Name of Su57?,Su57 Name
+Su57,What is the FullDesignation of Su57?,Su57 Full Designation
+Su57,What is the Manufacturer of Su57?,Dassault
+Su57,What is the FirstIntroduced of Su57?,2010
+Su57,What is the CountryOfOrigin of Su57?,USA
+Su57,What is the MaxSpeed of Su57?,1144 km/h
+Su57,What is the Range of Su57?,9242 km
+Su57,What is the ServiceCeiling of Su57?,12808 m
+Su57,What is the EngineType of Su57?,Turboprop
+Su57,What is the Weight of Su57?,"67811 kg (empty), 98518 kg (max)"
+Su57,What is the Dimensions of Su57?,"23 m length, 19 m wingspan"
+Su57,What is the Role of Su57?,Surveillance
+Su57,What is the SurveillanceCapable of Su57?,No
+Su57,What is the NuclearCapable of Su57?,Yes
+Su57,What is the WeaponsPayload of Su57?,Torpedoes
+Su57,What is the TransportCapacity of Su57?,4 personnel or 29293 kg cargo
+Su57,What is the Operators of Su57?,"USA, UK"
+Su57,What is the CombatHistory of Su57?,Yes
+Su57,What is the NotableMissions of Su57?,Su57 participated in major operations.
+Su57,What is the ActiveService of Su57?,Yes
+Su57,What is the Comparison of Su57?,Su57 is often compared with F35.
+Su57,What is the BetterThan of Su57?,Su57 is better than older gen aircraft.
+Su57,What is the StealthCapable of Su57?,No
+Su57,What is the DifferenceFrom of Su57?,Su57 differs from Su34 in design and avionics.
+Su57,What is the MannedOrUnmanned of Su57?,Manned
+Su57,What is the InterestingFacts of Su57?,Su57 has unique stealth tech.
+Su57,What is the UniqueFeatures of Su57?,Su57 supports vertical takeoff or special radar systems.
+F15,What is the Name of F15?,F15 Name
+F15,What is the FullDesignation of F15?,F15 Full Designation
+F15,What is the Manufacturer of F15?,Chengdu
+F15,What is the FirstIntroduced of F15?,2005
+F15,What is the CountryOfOrigin of F15?,China
+F15,What is the MaxSpeed of F15?,804 km/h
+F15,What is the Range of F15?,14168 km
+F15,What is the ServiceCeiling of F15?,24930 m
+F15,What is the EngineType of F15?,Rotary
+F15,What is the Weight of F15?,"64987 kg (empty), 121184 kg (max)"
+F15,What is the Dimensions of F15?,"17 m length, 36 m wingspan"
+F15,What is the Role of F15?,Reconnaissance
+F15,What is the SurveillanceCapable of F15?,No
+F15,What is the NuclearCapable of F15?,Yes
+F15,What is the WeaponsPayload of F15?,Machine Guns
+F15,What is the TransportCapacity of F15?,96 personnel or 49145 kg cargo
+F15,What is the Operators of F15?,"Russia, China"
+F15,What is the CombatHistory of F15?,No
+F15,What is the NotableMissions of F15?,F15 participated in major operations.
+F15,What is the ActiveService of F15?,No
+F15,What is the Comparison of F15?,F15 is often compared with F35.
+F15,What is the BetterThan of F15?,F15 is better than older gen aircraft.
+F15,What is the StealthCapable of F15?,No
+F15,What is the DifferenceFrom of F15?,F15 differs from Su34 in design and avionics.
+F15,What is the MannedOrUnmanned of F15?,Unmanned
+F15,What is the InterestingFacts of F15?,F15 has unique stealth tech.
+F15,What is the UniqueFeatures of F15?,F15 supports vertical takeoff or special radar systems.
+J10,What is the Name of J10?,J10 Name
+J10,What is the FullDesignation of J10?,J10 Full Designation
+J10,What is the Manufacturer of J10?,Dassault
+J10,What is the FirstIntroduced of J10?,2010
+J10,What is the CountryOfOrigin of J10?,USA
+J10,What is the MaxSpeed of J10?,2777 km/h
+J10,What is the Range of J10?,5626 km
+J10,What is the ServiceCeiling of J10?,23520 m
+J10,What is the EngineType of J10?,Rotary
+J10,What is the Weight of J10?,"47589 kg (empty), 80749 kg (max)"
+J10,What is the Dimensions of J10?,"13 m length, 36 m wingspan"
+J10,What is the Role of J10?,Fighter
+J10,What is the SurveillanceCapable of J10?,No
+J10,What is the NuclearCapable of J10?,No
+J10,What is the WeaponsPayload of J10?,Machine Guns
+J10,What is the TransportCapacity of J10?,51 personnel or 45845 kg cargo
+J10,What is the Operators of J10?,"USA, UK"
+J10,What is the CombatHistory of J10?,Yes
+J10,What is the NotableMissions of J10?,J10 participated in major operations.
+J10,What is the ActiveService of J10?,No
+J10,What is the Comparison of J10?,J10 is often compared with F35.
+J10,What is the BetterThan of J10?,J10 is better than older gen aircraft.
+J10,What is the StealthCapable of J10?,Yes
+J10,What is the DifferenceFrom of J10?,J10 differs from Su34 in design and avionics.
+J10,What is the MannedOrUnmanned of J10?,Manned
+J10,What is the InterestingFacts of J10?,J10 has unique stealth tech.
+J10,What is the UniqueFeatures of J10?,J10 supports vertical takeoff or special radar systems.
+F4,What is the Name of F4?,F4 Name
+F4,What is the FullDesignation of F4?,F4 Full Designation
+F4,What is the Manufacturer of F4?,Sukhoi
+F4,What is the FirstIntroduced of F4?,2010
+F4,What is the CountryOfOrigin of F4?,USA
+F4,What is the MaxSpeed of F4?,1305 km/h
+F4,What is the Range of F4?,7983 km
+F4,What is the ServiceCeiling of F4?,10001 m
+F4,What is the EngineType of F4?,Turbofan
+F4,What is the Weight of F4?,"74339 kg (empty), 111432 kg (max)"
+F4,What is the Dimensions of F4?,"14 m length, 51 m wingspan"
+F4,What is the Role of F4?,Transport
+F4,What is the SurveillanceCapable of F4?,No
+F4,What is the NuclearCapable of F4?,Yes
+F4,What is the WeaponsPayload of F4?,Bombs
+F4,What is the TransportCapacity of F4?,84 personnel or 14542 kg cargo
+F4,What is the Operators of F4?,Global
+F4,What is the CombatHistory of F4?,Yes
+F4,What is the NotableMissions of F4?,F4 participated in major operations.
+F4,What is the ActiveService of F4?,No
+F4,What is the Comparison of F4?,F4 is often compared with F35.
+F4,What is the BetterThan of F4?,F4 is better than older gen aircraft.
+F4,What is the StealthCapable of F4?,Yes
+F4,What is the DifferenceFrom of F4?,F4 differs from Su34 in design and avionics.
+F4,What is the MannedOrUnmanned of F4?,Unmanned
+F4,What is the InterestingFacts of F4?,F4 has unique stealth tech.
+F4,What is the UniqueFeatures of F4?,F4 supports vertical takeoff or special radar systems.

@@ -1,0 +1,12 @@
+flask
+tensorflow
+pillow
+pandas
+numpy
+matplotlib
+scikit-learn
+transformers
+sentence-transformers
+accelerate
+torch
+huggingface-hub
